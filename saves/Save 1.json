@@ -1,0 +1,1993 @@
+{
+  "usedCards": {
+    "yellow": [
+      103,
+      154,
+      61,
+      16,
+      80,
+      115,
+      113,
+      123
+    ],
+    "lightgreen": [
+      118,
+      53,
+      331,
+      61,
+      150,
+      83,
+      361,
+      122,
+      414,
+      258,
+      223,
+      108,
+      96,
+      43,
+      7,
+      63,
+      205,
+      413,
+      116,
+      143,
+      50,
+      209
+    ],
+    "warmpurple": [
+      47,
+      63,
+      110,
+      107,
+      18,
+      54,
+      43,
+      123,
+      119,
+      11,
+      73
+    ],
+    "green": [
+      51,
+      58,
+      2,
+      15,
+      46,
+      39,
+      52,
+      30,
+      22,
+      53,
+      48
+    ],
+    "purple": [
+      43,
+      72,
+      120,
+      115,
+      46,
+      29,
+      58,
+      97,
+      136,
+      8
+    ],
+    "pink": [
+      14,
+      29,
+      8,
+      58,
+      45,
+      47,
+      42,
+      2,
+      41,
+      36
+    ],
+    "orange": [
+      198,
+      36,
+      181,
+      55,
+      57,
+      324,
+      129,
+      148,
+      347,
+      183,
+      195,
+      330,
+      15
+    ],
+    "red": [
+      60,
+      97,
+      30,
+      57,
+      3,
+      59,
+      95,
+      20,
+      19,
+      93
+    ],
+    "black": [
+      60,
+      81,
+      20,
+      66,
+      86,
+      98,
+      54
+    ]
+  },
+  "history": [
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What do your parents do for work?"
+        },
+        "bottom": "The person who has the coolest parents gets to skip their next punishment. The person with the lamest parents has to drink."
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "The person who has the coolest parents gets to skip their next punishment. The person with the lamest parents has to drink.",
+      "color": "yellow",
+      "cardIndex": 103
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "How did you express your emotions as a kid? How did this evolve over time?"
+        },
+        "bottom": "The angriest kid has to drink."
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "The angriest kid has to drink.",
+      "color": "yellow",
+      "cardIndex": 154
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Tell us about a childhood memory that isn't particularly special, but is vaguely interesting nontheless."
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "yellow",
+      "cardIndex": 61
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever intentionally harmed your parents or friends emotionally or physically?  Describe the time."
+        },
+        "bottom": "The top voted answer has to eat a slice of bread in two bites."
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "The top voted answer has to eat a slice of bread in two bites.",
+      "color": "yellow",
+      "cardIndex": 16
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever walked in on any of your family members having sex?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "yellow",
+      "cardIndex": 80
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What was the last meal your parents made for you? Was it good?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "yellow",
+      "cardIndex": 115
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Did you have a bunk bed as a kid? Did you ever fall off of it? How did this happen?"
+        },
+        "bottom": "If you answered yes to both, drink up."
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "If you answered yes to both, drink up.",
+      "color": "yellow",
+      "cardIndex": 113
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Did your family decorate for the holidays? How early, and how long did they leave the decorations up for?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#D1C700",
+        "#FFF200",
+        "#FFF98A"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "yellow",
+      "cardIndex": 123
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Do you look both ways when crossing the road? Do you tend to stop or keep going regardless of what's coming your way?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 118
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What did you think you would hate, but you ended up loving?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 53
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What side of the bed do you sleep on? Does the group think you are weird for that?"
+        },
+        "bottom": "If the group thinks you are weird for that, you have to take a drink."
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "If the group thinks you are weird for that, you have to take a drink.",
+      "color": "lightgreen",
+      "cardIndex": 331
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You are dropped off in a random US city with a car, but no phone. You are unable to ask for help, and unable to use a map. Do you think you'll be able to make it back?"
+        },
+        "bottom": "If anyone thinks they can make it back, and the group agrees, they get a treat."
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "If anyone thinks they can make it back, and the group agrees, they get a treat.",
+      "color": "lightgreen",
+      "cardIndex": 61
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Are you a substantially different person outside of work? How do you think the world sees you when you are working vs any other time?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 150
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "When is a time someone talked you into doing something you really didn't want to do? Was it worth it?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 83
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever broken any bones? What bones, and how?"
+        },
+        "bottom": "Our never-broke-a-bone folks have to take a shot of milk with salt sprinkled in it. A cream liquor would also work."
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "Our never-broke-a-bone folks have to take a shot of milk with salt sprinkled in it. A cream liquor would also work.",
+      "color": "lightgreen",
+      "cardIndex": 361
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What's the most difficult to explain search in your search history? You can open your history right now to check."
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 122
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "!!silhouette.what!!"
+        },
+        "bottom": "What kind of animal is this?"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "What kind of animal is this?",
+      "color": "lightgreen",
+      "cardIndex": 414,
+      "silhouettePath": "/silhouette/what/lizard.png",
+      "revealed": false
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What mythical, spiritual, or folklore creatures do you believe in?"
+        },
+        "bottom": "Anyone who doesn't believe in anything has to go to the bathroom, turn off the lights, and say bloody mary 3 times slowly in the mirror."
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "Anyone who doesn't believe in anything has to go to the bathroom, turn off the lights, and say bloody mary 3 times slowly in the mirror.",
+      "color": "lightgreen",
+      "cardIndex": 258
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Where is the strangest place you've gone to sleep?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 223
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is something about your personal hygiene that you think you should work on?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 108
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What's the biggest lie you were caught in?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 96
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What bad habit are you trying to kick?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 43
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Tell the story of a time you proved someone wrong?"
+        },
+        "bottom": "I bet the person with the best story can't take 2 shots!"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "I bet the person with the best story can't take 2 shots!",
+      "color": "lightgreen",
+      "cardIndex": 7
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Let's start a business. What are we all good at? What could we actually be successful with?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 63
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever stabbed someone in the back or actively plotted against them?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 205
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "!!silhouette.what!!"
+        },
+        "bottom": "What kind of animal is this?"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "What kind of animal is this?",
+      "color": "lightgreen",
+      "cardIndex": 413,
+      "silhouettePath": "/silhouette/what/rabbit.png",
+      "revealed": true
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Who here was most likely dropped as a baby."
+        },
+        "bottom": "Only pick one person. That person will have to take a drink."
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "Only pick one person. That person will have to take a drink.",
+      "color": "lightgreen",
+      "cardIndex": 116
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Is there a seemingly normal rule of society that you have never ever followed?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 143
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever participated in malicious compliance? When?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 50
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What's something you're currently doing that you'll only stop if and only if you get caught?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#1DE21D",
+        "#39EC39",
+        "#A1F5A1"
+      ],
+      "useDarkText": true,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "lightgreen",
+      "cardIndex": 209
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Tell us what you do to annoy your partner on purpose?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "warmpurple",
+      "cardIndex": 47
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is the minimum amount of time you should wait before telling someone you love them. What about the maximum?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "warmpurple",
+      "cardIndex": 63
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is the biggest mess you've ever created during sex? Who cleaned it up?"
+        },
+        "bottom": "Drink if you left a mess for someone else to clean up. Spin the punishment wheel while you're at it."
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Drink if you left a mess for someone else to clean up. Spin the punishment wheel while you're at it.",
+      "color": "warmpurple",
+      "cardIndex": 110
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Give us a passionate example of your dirty talk."
+        },
+        "bottom": "Or drink."
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Or drink.",
+      "color": "warmpurple",
+      "cardIndex": 107
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Do you use dating apps? Which app is your favorite? When did you start using them?"
+        },
+        "bottom": "If you do, let the group go through your messages with one person of their choosing. Drink if you don't have any matches."
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "If you do, let the group go through your messages with one person of their choosing. Drink if you don't have any matches.",
+      "color": "warmpurple",
+      "cardIndex": 18
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever had a pregnancy scare? How did you react?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "warmpurple",
+      "cardIndex": 54
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever done any grand gestures to try and repair a failing relationship or friendship?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "warmpurple",
+      "cardIndex": 43
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "If your sex life was like a pie chart, what portion of it would be: unsatisfactory, satisfactory, and mind-blowing?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "warmpurple",
+      "cardIndex": 123
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is your favorite sexual position? Why?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "warmpurple",
+      "cardIndex": 119
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Is it ever okay to go through your partner's phone? Have you ever gone through your partner's phone?"
+        },
+        "bottom": "A random person from the group, who has gone through their partner's phone, must give up their phone for 30 seconds for others to look through."
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "A random person from the group, who has gone through their partner's phone, must give up their phone for 30 seconds for others to look through.",
+      "color": "warmpurple",
+      "cardIndex": 11
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have you ever had a wet dream? What was the dream?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#6D1F84",
+        "#8B28A9",
+        "#BB5BD9"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "warmpurple",
+      "cardIndex": 73
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You have an unlimited budget to make the movie of your dreams. What do you make it about? What is the genre?"
+        },
+        "bottom": "The person with the most interesting film idea gets a treat."
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "The person with the most interesting film idea gets a treat.",
+      "color": "pink",
+      "cardIndex": 14
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is your go-to comfort movie, and your go-to comfort show?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "pink",
+      "cardIndex": 29
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Is it okay to separate art from the artist?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "pink",
+      "cardIndex": 8
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is something a celebrity did that instantly put you off of them?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "pink",
+      "cardIndex": 58
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is your stance on rebooting 2d animated movies or shows in a 3d format?"
+        },
+        "bottom": "Take a drink if you support this nonsense."
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Take a drink if you support this nonsense.",
+      "color": "pink",
+      "cardIndex": 45
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What celebrity in particular do you think doesn't deserve their fame?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "pink",
+      "cardIndex": 47
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What movie or show did you give up on? Why?"
+        },
+        "bottom": "Begin your rant about why, then give up midway through your talking points. If you have more to say, take a drink before speaking."
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Begin your rant about why, then give up midway through your talking points. If you have more to say, take a drink before speaking.",
+      "color": "pink",
+      "cardIndex": 42
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You can make one song play on repeat for 72 hours in everyone at this party's head. What song do you choose?"
+        },
+        "bottom": "Randomly pick a song from all provided options to play 10 times back-to-back."
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Randomly pick a song from all provided options to play 10 times back-to-back.",
+      "color": "pink",
+      "cardIndex": 2
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What show do you refuse to watch despite the hype?"
+        },
+        "bottom": "Name two characters from this show you didn't watch. If you fail, you have to drink."
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Name two characters from this show you didn't watch. If you fail, you have to drink.",
+      "color": "pink",
+      "cardIndex": 41
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What movie perfectly represents its era?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#ff5db1",
+        "#e33c87",
+        "#c2005e"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "pink",
+      "cardIndex": 36
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You can own, but not sell, one of the following: a pirate ship, a warship, a nuclear submarine (nukes included), or a 2003 Toyota Corolla. All of these are in perfect condition, and a third party takes care of all future expenses and storage. What do you choose?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "purple",
+      "cardIndex": 43
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "If you had to be haunted by a ghost for the rest of your life but could choose which dead person the ghost would be, who would you choose as your ghost?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "purple",
+      "cardIndex": 72
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You become the most intelligent person in the world, BUT... nobody believes any of your ideas. You could literally say the sky is blue, and they would doubt you before proving it themselves. They are also very rude about it."
+        },
+        "bottom": "Do you go for it?"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Do you go for it?",
+      "color": "purple",
+      "cardIndex": 120
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Would you rather lose your eyesight, or have your arms blown up?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "purple",
+      "cardIndex": 115
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You can sneak into any place on Earth for 48 hours. Where do you go? What do you think you'll see?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "purple",
+      "cardIndex": 46
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "So if a vengeful and peckish god turned you into a breakfast tomorrow, what would you be? "
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "purple",
+      "cardIndex": 29
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You have to make one mammal go extinct. Which one do you choose, and why?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "purple",
+      "cardIndex": 58
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "If you had to suffer through a massive natural disaster but could choose which disaster to face, which would you choose?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "purple",
+      "cardIndex": 97
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What kind of apocalypse would you prefer to experience, if you had to choose one? 1) Running zombies, 2) nuclear fallout, 3) planet of the apes, or 4) the sun explodes, vaporizing everything."
+        },
+        "bottom": "Whoever chooses option 4 has to drink. Coward."
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Whoever chooses option 4 has to drink. Coward.",
+      "color": "purple",
+      "cardIndex": 136
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "You are tasked to write a 40-page essay on one topic. You can use google for research purposes, but no AI is allowed. What topic do you choose?"
+        },
+        "bottom": "Whoever chooses the most boring answer takes a drink."
+      },
+      "colors": [
+        "#bd5dff",
+        "#7a3ce3",
+        "#3b00c2"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Whoever chooses the most boring answer takes a drink.",
+      "color": "purple",
+      "cardIndex": 8
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "I have 2.5 Terrabytes (this is a lot) of one category of thing downloaded on my computer. What is it?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 51
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Have any of your friends ever said something bad about me behind my back? Was it justified?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 58
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What do you hope I achieve?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 2
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "The group needs to decide who most needs praising. When a conclusion is made, everyone praise this person."
+        },
+        "bottom": "The praised gets a treat."
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "The praised gets a treat.",
+      "color": "green",
+      "cardIndex": 15
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What will you never understand about me?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 46
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Be sincere. Write a dating app bio for me in 3 sentences or less."
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 39
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "How do you describe me to people?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 52
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "How often am I confidently incorrect? Can you name a time?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 30
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Tell me about a disagreement we had, and how we resolved it. Has it made us stronger?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 22
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Name a time you wished you could have helped me, but you weren't able to."
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 53
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Someone wants to date me. What do you tell them to make sure they are prepared?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#2FA246",
+        "#268238",
+        "#1A5B27"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "green",
+      "cardIndex": 48
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is the population of: >>gamble.population<<?"
+        },
+        "bottom": "Click to reveal answer. ||>>answer.population<<||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 198,
+      "populationIndex": 111,
+      "populationName": "Richmond, VA",
+      "populationValue": "230,000",
+      "resolvedTopText": "What is the population of: Richmond, VA?"
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "cards/images/orange/northdakota.avif"
+        },
+        "bottom": "What state is this from? Click to reveal the answer.||North Dakota||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 36
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is the population of: >>gamble.population<<?"
+        },
+        "bottom": "Click to reveal answer. ||>>answer.population<<||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 181,
+      "populationIndex": 148,
+      "populationName": "Bangkok, Thailand",
+      "populationValue": "10,539,000",
+      "resolvedTopText": "What is the population of: Bangkok, Thailand?"
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "cards/images/orange/Minnesota2.JPEG"
+        },
+        "bottom": "What state is this from? Click to reveal the answer.||Minnesota||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 55
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "cards/images/orange/wisconsin.webp"
+        },
+        "bottom": "What state is this from? Click to reveal the answer.||Wisconsin||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 57
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+        },
+        "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 324,
+      "geoAnswer": "The busiest airport for Zambia is approximately 9,176 miles away.",
+      "resolvedTopText": "Busiest airport of: Zambia. How many miles away is it?"
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "cards/images/orange/newyork.webp"
+        },
+        "bottom": "What state is this from? Click to reveal the answer.||New York||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 129
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "cards/images/orange/rhodeisland2.JPG"
+        },
+        "bottom": "What state is this from? Click to reveal the answer.||Rhode Island||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 148
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+        },
+        "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 347,
+      "geoAnswer": "The busiest airport for Australia is approximately 8,332 miles away.",
+      "resolvedTopText": "Busiest airport of: Australia. How many miles away is it?"
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is the population of: >>gamble.population<<?"
+        },
+        "bottom": "Click to reveal answer. ||>>answer.population<<||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 183,
+      "populationIndex": 28,
+      "populationName": "New Hampshire",
+      "populationValue": "1,377,529",
+      "resolvedTopText": "What is the population of: New Hampshire?"
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is the population of: >>gamble.population<<?"
+        },
+        "bottom": "Click to reveal answer. ||>>answer.population<<||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 195,
+      "populationIndex": 96,
+      "populationName": "Santa Fe, NM",
+      "populationValue": "85,000",
+      "resolvedTopText": "What is the population of: Santa Fe, NM?"
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+        },
+        "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 330,
+      "geoAnswer": "The busiest airport for Finland is approximately 4,975 miles away.",
+      "resolvedTopText": "Busiest airport of: Finland. How many miles away is it?"
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "cards/images/orange/idaho.JPG"
+        },
+        "bottom": "What state is this from? Click to reveal the answer.||Idaho||"
+      },
+      "colors": [
+        "#A35400",
+        "#D16C00",
+        "#FFC42E"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "orange",
+      "cardIndex": 15
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Should judges be strict to the law?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 60
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What should living with minimum wage pay look like?"
+        },
+        "bottom": "Drink if you make minimum wage."
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Drink if you make minimum wage.",
+      "color": "red",
+      "cardIndex": 97
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Is it cowardly to be neutral in a moral debate?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 30
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Should prisons focus on rehabilitation or punishment? What crimes are beyond rehabilitation?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 57
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What is your opinion on social media? Is it doing more harm than good?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 3
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Does the death penalty take too long? Is the death penalty acceptable?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 59
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What do you believe happens after death? What would your ideal after-death experience be, regardless of your beliefs?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 95
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "How far should government surveillance be allowed to go? Should we cut back on it?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 20
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Can a supreme ruler be a good thing?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 19
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What do you think about borders? Are they important, or should people be able to roam and live wherever they desire?"
+        },
+        "bottom": "● • ● ○ ● • ●"
+      },
+      "colors": [
+        "#750000",
+        "#A30000",
+        "#FF0000"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "● • ● ○ ● • ●",
+      "color": "red",
+      "cardIndex": 93
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "!!canvas!!"
+        },
+        "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+      },
+      "colors": [
+        "#000000",
+        "#222222",
+        "#444444"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "black",
+      "cardIndex": 60
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Every time someone says your name for the next 5 minutes, you have to clap."
+        },
+        "bottom": "If you fail, SPIN THE PUNISHMENT WHEEL!"
+      },
+      "colors": [
+        "#000000",
+        "#222222",
+        "#444444"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "If you fail, SPIN THE PUNISHMENT WHEEL!",
+      "color": "black",
+      "cardIndex": 81
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "What percentage is my phone battery at?"
+        },
+        "bottom": "If anyone can guess within 10% of your charge, you have to drink. The closest guess gets to skip their next punishment."
+      },
+      "colors": [
+        "#000000",
+        "#222222",
+        "#444444"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "If anyone can guess within 10% of your charge, you have to drink. The closest guess gets to skip their next punishment.",
+      "color": "black",
+      "cardIndex": 20
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "!!canvas!!"
+        },
+        "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+      },
+      "colors": [
+        "#000000",
+        "#222222",
+        "#444444"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "black",
+      "cardIndex": 66
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "card puller, give a motivational speech about something really boring."
+        },
+        "bottom": "Group, were you bored? If anyone genuinely laughs, the card puller has to drink."
+      },
+      "colors": [
+        "#000000",
+        "#222222",
+        "#444444"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "Group, were you bored? If anyone genuinely laughs, the card puller has to drink.",
+      "color": "black",
+      "cardIndex": 86
+    },
+    {
+      "card": {
+        "top": {
+          "type": "text",
+          "value": "Name 10 countries in 15 seconds."
+        },
+        "bottom": "If you fail, or name a continent, take a drink."
+      },
+      "colors": [
+        "#000000",
+        "#222222",
+        "#444444"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": "If you fail, or name a continent, take a drink.",
+      "color": "black",
+      "cardIndex": 98
+    },
+    {
+      "card": {
+        "top": {
+          "type": "image",
+          "value": "!!canvas!!"
+        },
+        "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+      },
+      "colors": [
+        "#000000",
+        "#222222",
+        "#444444"
+      ],
+      "useDarkText": false,
+      "resolvedBottomText": null,
+      "color": "black",
+      "cardIndex": 54
+    }
+  ],
+  "historyPointer": 97,
+  "usedSilhouettes": [
+    "/silhouette/what/lizard.png",
+    "/silhouette/what/rabbit.png"
+  ]
+}

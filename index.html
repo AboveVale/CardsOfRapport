@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Cards of Rapport</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chewy&family=Nova+Round&display=swap" rel="stylesheet">
+<style>
+/* =========================
+   CSS VARIABLES & PROPS
+   ========================= */
+@property --rotate {
+  syntax: "<angle>";
+  initial-value: 0deg;
+  inherits: false;
+}
+
+.chewy-regular {
+  font-family: "Chewy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+:root {
+  --card-height: 220px;
+  --card-width: calc(var(--card-height) / 1);
+  --bg-main: rgba(33, 37, 52, 1);
+  --bg-panel: rgba(22, 27, 42, 0.55);
+}
+
+/* =========================
+   GLOBAL STYLES
+   ========================= */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Nova Round", system-ui;
+  user-select: none;
+}
+
+body {
+  margin: 0;
+  background: rgba(33, 37, 52, 1);
+  color: white;
+  font-family: system-ui, -apple-system, sans-serif;
+  display: block;
+
+  /* Toolbar space */
+  padding-top: 60px;
+
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+
+/* =========================
+   TOOLBAR
+   ========================= */
+.toolbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background: var(--bg-panel);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom: 2px solid rgba(255,255,255,0.05);
+  z-index: 100;
+}
+
+.toolbar-left {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.toolbar-center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 1.75rem;
+}
+
+.toolbar-btn {
+  background: rgba(33,37,52,0.85);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 8px;
+  padding: 6px 12px;
+  color: white;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.toolbar-btn:hover {
+  background: rgba(33,37,52,1);
+  border-color: rgba(255,255,255,0.3);
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: var(--bg-panel);
+  min-width: 160px;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.1);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  z-index: 200;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* =========================
+   MAIN CONTAINER
+   ========================= */
+/* Main container wrapper */
+#main-content {
+  width: 100%;
+  height: calc(100vh - 60px);
+  padding: 20px;
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  gap: 20px;
+}
+
+
+
+/* Grid */
+.grid {
+  flex: 1 1 0;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding: 20px;
+  background: rgba(22, 27, 42, 0.75);
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+
+/* Side panel */
+.side-panel {
+  flex: 0 0 40%;
+  max-width: 40%;
+  height: 100%;
+  padding: 20px;
+  background: rgba(22, 27, 42, 1);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+
+
+.side-panel::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  padding: 5px;
+  border-radius: inherit;
+  background: linear-gradient(var(--rotate), var(--sb1,#bd5dff), var(--sb2,#7a3ce3) 43%, var(--sb3,#3b00c2));
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  animation: sideBorderHue 2.5s linear infinite;
+  pointer-events: none;
+  z-index: -1;
+  display: inherit;
+}
+
+.side-panel::after {
+  content: none;
+}
+
+@keyframes sideBorderHue {
+  from { --rotate: 0deg; }
+  to { --rotate: 360deg; }
+}
+
+/* =========================
+   CARD STACK
+   ========================= */
+.card-stack {
+  position: relative;
+  width: var(--card-width);
+  height: var(--card-height);
+  transform-origin: center;
+  margin: 20px auto 0;
+}
+
+/* CARD BASE */
+.card {
+  position: absolute;
+  inset: 0;
+  border-radius: 10px;
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  text-align: center;
+  word-break: break-word;
+  padding: 10px;
+  transition: transform 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+  font-size: 1.25rem;
+}
+#whitecard .card {
+  color: black;
+}
+
+.card:hover { cursor: pointer; }
+
+.card .card-number {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  pointer-events: none;
+  z-index: 5;
+}
+
+/* INITIAL FAN */
+.card:nth-child(1) { transform: rotate(-4deg) translateX(-14px); z-index: 1; }
+.card:nth-child(2) { z-index: 2; }
+.card:nth-child(3) { transform: rotate(4deg) translateX(14px); z-index: 3; }
+
+/* HOVER FAN */
+.card-stack:hover .card:nth-child(1) { transform: rotate(-8deg) translateX(-36px); }
+.card-stack:hover .card:nth-child(2) { transform: translateY(-6px); }
+.card-stack:hover .card:nth-child(3) { transform: rotate(8deg) translateX(36px); }
+
+/* GLOW EFFECT */
+.card::before,
+.card::after {
+  content: "";
+  position: absolute;
+  inset: -2%;
+  border-radius: inherit;
+  background-image: linear-gradient(var(--rotate), var(--c1), var(--c2) 45%, var(--c3));
+  z-index: -1;
+  animation: spin 10s linear infinite;
+}
+
+.card::after {
+  inset: 0;
+  transform: scale(0.85);
+  filter: blur(26px);
+  opacity: 0.6;
+  z-index: -2;
+}
+
+@keyframes spin {
+  from { --rotate: 0deg; }
+  to { --rotate: 360deg; }
+}
+
+/* =========================
+   TOP & BOTTOM BOXES
+   ========================= */
+.top-box {
+  position: relative;
+  flex: 1;
+  border-radius: 12px;
+  overflow: hidden;
+  color: white;
+  font-size: 2rem;
+  --c1: #bd5dff;
+  --c2: #7a3ce3;
+  --c3: #3b00c2;
+  background: linear-gradient(var(--rotate), var(--c1), var(--c2) 45%, var(--c3));
+  background-size: 200% 200%;
+  animation: topBoxSpin 10s linear infinite;
+}
+/* replaces yellow-text */
+.top-box.dark-text {
+  color: black;
+}
+
+.top-box.dark-text .text-content {
+  color: black;
+}
+
+@keyframes topBoxSpin {
+  0% { --rotate: 0deg; }
+  100% { --rotate: 360deg; }
+}
+
+.top-box .text-content {
+  position: absolute;
+  inset: 0;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgba(0,0,0,0);
+  border-radius: 8px;
+  line-height: 2;
+  word-break: break-word;
+}
+.top-box-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center; /* center vertically */
+  overflow: hidden;    /* clip anything that spills out */
+  position: relative;
+}
+
+.top-box-content img {
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+  display: block;
+  pointer-events: auto;
+  /* Floating / card lift effect */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25); /* soft shadow */
+  border-radius: 8px; /* optional: soften corners */
+  transition: transform 0.2s, box-shadow 0.2s; /* smooth hover effect */
+  min-width: 70%;
+  min-height: 60%;
+}
+
+.bottom-box {
+  height: 20%;
+  background: rgba(52, 60, 89, 1);
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  font-size: 1.25rem;
+  line-height: 1.4;
+}
+
+/* == Font == */ 
+
+.nova-round-regular {
+  font-family: "Nova Round", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+/* =========================
+   REFRESH MODAL
+   ========================= */
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(33, 37, 52, 0.85);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 500;
+}
+
+.modal-content {
+  background: rgba(22, 27, 42, 0.95);
+  padding: 30px;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+  max-width: 400px;
+  width: 90%;
+  font-size: 1.25rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+.modal-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.modal-btn {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.2);
+  background: rgba(33,37,52,0.85);
+  color: white;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: all 0.2s ease;
+}
+
+.modal-btn:hover {
+  background: rgba(33,37,52,1);
+  border-color: rgba(255,255,255,0.4);
+}
+
+/* SPOILER */
+
+.bottom-box.spoiler-mode {
+  background: black;
+  color: black;
+  cursor: pointer;
+  position: relative;
+}
+
+.bottom-box.spoiler-mode .spoiler-label {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 600;
+  text-align: center;
+  pointer-events: none;
+  padding: 10px;
+}
+
+.bottom-box.spoiler-revealed {
+  background: rgba(52, 60, 89, 1);
+  color: inherit;
+}
+.spoiler-overlay {
+  position: absolute;
+  inset: 0;
+  background: black;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+/* ====== TIMER ========*/ 
+
+.timer-quick-btn {
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: rgba(33,37,52,0.85);
+  color: white;
+  font-size: 1rem;
+  transition: 0.2s;
+}
+
+.timer-quick-btn:hover {
+  background: rgba(33,37,52,1);
+}
+
+/* ============= Undo/redo ============== */
+
+.top-box {
+  position: relative;
+  flex: 1;
+  border-radius: 12px;
+  overflow: hidden;
+  color: white;
+  font-size: 2rem;
+  --c1: #bd5dff;
+  --c2: #7a3ce3;
+  --c3: #3b00c2;
+  background: linear-gradient(var(--rotate), var(--c1), var(--c2) 45%, var(--c3));
+  background-size: 200% 200%;
+  animation: topBoxSpin 10s linear infinite;
+}
+
+.top-box .top-box-content {
+  position: absolute;
+  inset: 0;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgba(0,0,0,0);
+  border-radius: 12px;
+  line-height: 2;
+  word-break: break-word;
+}
+
+.top-box button.undo-btn,
+.top-box button.redo-btn {
+  position: absolute;
+  top: 10px;
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 100px;
+  background: rgba(33,37,52,1);
+  color: white;
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: 0.2s;
+}
+
+.top-box button.undo-btn:hover,
+.top-box button.redo-btn:hover {
+  background: rgba(33,37,52,1);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.35);
+  font-size: 1.65rem;
+}
+
+.top-box button.undo-btn { left: 10px; }
+.top-box button.redo-btn { right: 10px; }
+
+/* ====== RULES ======= */
+
+#rules-modal .modal-content {
+  max-width: 80vw;
+  width: 90%;
+  text-align: left;
+}
+#rules-modal h2 {
+  margin-bottom: 15px;
+  font-size: 1.5rem;
+  text-align: center;
+}
+#rules-modal ol {
+  margin-left: 20px;
+  line-height: 1.5;
+}
+#rules-modal ol li {
+  margin-bottom: 12px;
+  line-height: 1.6; /* increases spacing within each item */
+  border-bottom: 1px solid rgba(255,255,255,0.3);
+  padding-bottom: 15px;
+  padding-top: 5px;
+}
+/* =========================
+   BUBBLES
+   ========================= */
+.bubble-container {
+  position: absolute;
+  top: 60px; /* below toolbar */
+  left: 0;
+  width: 100%;
+  height: calc(100vh - 60px);
+  overflow: hidden;
+  pointer-events: none; /* don't block clicks */
+  z-index: 0; /* below content */
+}
+
+.grid,
+.side-panel {
+  position: relative; /* ensure they stack above bubbles */
+  z-index: 1;
+}
+
+.bubble {
+  position: absolute;
+  bottom: -50px;
+  pointer-events: none;
+  z-index: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: brightness(0) invert(1);
+  opacity: 0.2;
+  border-radius: 0;
+
+  animation-name: floatUp;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes floatUp {
+  0% {
+    transform: translateY(0) rotate(var(--rotation, 0deg));
+  }
+  100% {
+    transform: translateY(-110vh) rotate(var(--rotation, 0deg));
+  }
+}
+
+/* ================================ CANVAS ===================================== */
+.top-box-canvas-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background: white;
+  border-radius: 12px;
+}
+
+.top-box-canvas {
+  flex: 1;
+  display: block;
+  border-radius: 12px 12px 0 0;
+  background: white;
+}
+
+.canvas-toolbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15px;
+  padding: 8px;
+  background: rgba(33,37,52,0.85);
+  border-top: 1px solid rgba(0,0,0,0.1);
+  border-radius: 0 0 12px 12px;
+}
+
+.canvas-toolbar label {
+  color: white;
+  font-size: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.canvas-toolbar input[type="range"] {
+  cursor: pointer;
+}
+
+.canvas-toolbar input[type="color"] {
+  cursor: pointer;
+  border: none;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  background: none;
+}
+
+.canvas-toolbar button {
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9rem;
+  background: rgba(33,37,52,0.85);
+  color: white;
+  transition: 0.2s;
+}
+
+.canvas-toolbar button:hover {
+  background: rgba(43,47,62,1);
+}
+
+.text-content {
+  display: block;
+  width: 100%;
+  text-align: center;      /* center text */
+  word-wrap: break-word;   /* allow normal text wrapping */
+  line-height: 1.3;        /* match normal line spacing */
+  font-size: 2rem;         /* match your card text size */
+}
+.toolbar-right {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+/* ====== WHEEL ========= */
+
+#wheel {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 20px;
+}
+
+#wheel .wheel-item {
+  font-size: 1.25rem;
+  font-weight: 600;
+  min-width: 300px;
+  text-align: center;
+}
+#punishment-modal .modal-content {
+  max-width: 700%;
+  width: 90%;
+  padding: 40px 30px;
+  border-radius: 12px;
+  text-align: center;
+  background: rgba(22, 27, 42, 0.95);
+  color: white;
+  font-size: 1.5rem;
+  box-shadow: 0 0 25px rgba(0,0,0,0.5);
+}
+.wheel-item {
+  font-size: 1.5rem;
+  text-align: center;
+  transition: opacity 0.15s;
+  line-height: 2.5;
+}
+
+.wheel-item.active { opacity: 1; font-weight: bold; }
+.wheel-item.dim1 { opacity: 0.5; }
+.wheel-item.dim2 { opacity: 0.2; }
+
+.text-content br + br {
+  display: block;
+  content: "";
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+
+
+</style>
+<script type="module" src="script.js" defer></script>
+<script type="module" src="colorpicker.js"></script>
+</head>
+
+<body>
+
+<div class="toolbar">
+  <div class="toolbar-left">
+    <button class="toolbar-btn">Save</button>
+
+    <div class="dropdown">
+      <button class="toolbar-btn">Load</button>
+      <div class="dropdown-content">
+        <span>No saves detected.</span>
+      </div>
+    </div>
+
+    <button class="toolbar-btn refresh">Refresh</button>
+	<button class="toolbar-btn timer" id="timer-btn">Timer</button>
+	<button class="toolbar-btn" id="rules-btn">Rules</button>
+  </div>
+  <div class="toolbar-center">
+    Cards of Rapport
+  </div>
+  <div class="toolbar-right">
+  <button class="toolbar-btn" onclick="openPunishmentWheel()">Punishment Wheel</button>
+  <button class="toolbar-btn mute" onclick="toggleBgmMute()" title="Mute music">🔊</button>
+  </div>
+</div>
+<div class="bubble-container"></div>
+
+<div id="main-content">
+<div class="container">
+
+<!--
+ PLANS
+ -----
+ 
+ 1. Add a wavy gradient visualizer border that shows up on the cards only occasionally.
+-->
+
+  <div class="grid">
+    <div class="card-stack" id="whitecard" style="--c1:#D1C700; --c2:#FFF200; --c3:#FFF98A" data-color="yellow" data-border="#ffd15d,#FFF200,#FFF98A" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">Family,<br> Social,<br>& Childhood</div> 
+      <div class="card">Family,<br> Social,<br>& Childhood</div>
+      <div class="card">Family,<br> Social,<br>& Childhood</div>
+    </div>
+
+	<div class="card-stack" id="whitecard" style="--c1:#1DE21D; --c2:#39EC39; --c3:#A1F5A1;" data-color="lightgreen" data-border="#1DE21D,#39EC39,#A1F5A1" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">General Questions & Prompts</div> <!-- Add silhouettes and inkblot -->
+      <div class="card">General Questions & Prompts</div>
+      <div class="card">General Questions & Prompts</div>
+    </div>
+
+	<div class="card-stack" style="--c1:#6D1F84; --c2:#8B28A9; --c3:#BB5BD9" data-color="warmpurple" data-border="#6D1F84,#8B28A9,#BB5BD9" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">Relationships,<br> Intimacy,<br> & Sex</div>
+      <div class="card">Relationships,<br> Intimacy,<br> & Sex</div>
+      <div class="card">Relationships,<br> Intimacy,<br> & Sex</div>
+    </div>
+
+    <div class="card-stack" style="--c1:#2FA246; --c2:#268238; --c3:#1A5B27" data-color="green" data-border="#2FA246,#268238,#1A5B27" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">We Know Each Other</div>
+      <div class="card">We Know Each Other</div>
+      <div class="card">We Know Each Other</div>
+    </div>
+
+	<div class="card-stack" style="--c1:#bd5dff; --c2:#7a3ce3; --c3:#3b00c2" data-color="purple" data-border="#bd5dff,#7a3ce3,#3b00c2" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">Hypotheticals</div> <!-- would you rather, would you press the button, trolley problem -->
+      <div class="card">Hypotheticals</div>
+      <div class="card">Hypotheticals</div>
+    </div>
+
+	<div class="card-stack" style="--c1:#ff5db1; --c2:#e33c87; --c3:#c2005e" data-color="pink" data-border="#ff5db1,#e33c87,#c2005e" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">Pop Culture & Entertainment</div>
+      <div class="card">Pop Culture & Entertainment</div>
+      <div class="card">Pop Culture & Entertainment</div>
+    </div>
+
+    <div class="card-stack" style="--c1:#A35400; --c2:#D16C00; --c3:#FFC42E" data-color="orange" data-border="#A35400,#D16C00,#FFC42E" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">Geography challenges</div> <!-- This place or that place? Georgia or Georgia? Flags, outlines. -->
+      <div class="card">Geography challenges</div>
+      <div class="card">Geography challenges</div>
+    </div>
+
+	<div class="card-stack" style="--c1:#750000; --c2:#A30000; --c3:#FF0000" data-color="red" data-border="#750000,#A30000,#FF0000" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">Controversial & Deep</div>
+      <div class="card">Controversial & Deep</div>
+      <div class="card">Controversial & Deep</div>
+    </div>
+
+    <div class="card-stack" style="--c1:#000000; --c2:#222222; --c3:#444444" data-color="black" data-border="#000000,#222222,#444444" onclick="playCardFlip()" onmouseenter="playHoverSound()">
+      <div class="card">Challenges & Dares</div>
+      <div class="card">Challenges & Dares</div>
+      <div class="card">Challenges & Dares</div>
+    </div>
+  </div>
+  
+  
+
+<div class="side-panel">
+  <div class="top-box">
+    <div class="top-box-content"></div>
+    <button class="undo-btn">&lt;</button>
+    <button class="redo-btn">&gt;</button>
+  </div>
+
+
+  <div class="bottom-box"></div>
+</div>
+
+
+</div>
+</div>
+<!-- Refresh Confirmation Modal -->
+<div id="refresh-modal" class="modal">
+  <div class="modal-content">
+    <p>Are you sure you want to refresh?</p>
+    <div class="modal-buttons">
+      <button id="refresh-yes" class="modal-btn">Yes</button>
+      <button id="refresh-no" class="modal-btn">No</button>
+    </div>
+  </div>
+</div>
+<div id="punishment-modal" class="modal">
+  <div class="modal-content">
+    <div id="wheel" style="display:flex; flex-direction: column; align-items: center; gap:6px; margin-bottom:20px;">
+      <!-- 11 wheel items will be dynamically created here -->
+    </div>
+    <button class="modal-btn" onclick="spinWheel()">Spin</button>
+    <button class="modal-btn" onclick="closePunishmentWheel()">Close</button>
+  </div>
+</div>
+
+
+<div id="rules-modal" class="modal">
+  <div class="modal-content">
+    <h2>Rules and Tips</h2>
+    <ol>
+      <li>No punishment is final. Sometimes you just really don't feel like doing something, and that's okay! If you refuse a punishment, the group gets to vote on a new punishment for you. Of course, the game is more fun the more you play along, so don't refuse every punishment.</li>
+	  <li>Most cards, unless stated otherwise, are directed for the entire group the answer. Punishments and rewards (displayed at the bottom of the card) tend to be the same way.</li>
+	  <li>If you choose not to answer a card, you either have to drink, or the group punishes you.</li>
+      <li>"Nasty shots" are shots formulated for the sole purpose of being gross, though safe to consume. Adding spices, foods, and sauces to a base liquid in hopes of making someone hate their life.</li>
+      <li>The arrows above the cards allow you to cycle through drawn cards.</li>
+      <li>You can save and load your game so that you can return at a later time without drawing the same cards. Just remember to give your save a name!</li>
+      <li>When the box at the bottom of the card is blacked out, it means a spoiler has been put over it. Click the spoiler to disable it, and click it again to re-enable it.</li>
+      <li>Press f11 (or fn+f11) on your keyboard to full-screen the game. It's more immersive this way.</li>
+    </ol>
+    <div class="modal-buttons">
+      <button id="rules-close" class="modal-btn">Close</button>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
