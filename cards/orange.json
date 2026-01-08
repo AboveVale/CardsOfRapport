@@ -66,21 +66,21 @@
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/California.jpg"
+        "value": "cards/images/orange/california.jpg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||California||"
     },
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/California2.jpg"
+        "value": "cards/images/orange/california2.jpg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||California||"
     },
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/California3.jpg"
+        "value": "cards/images/orange/california3.jpg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||California||"
     },
@@ -143,7 +143,7 @@
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/nevada3.webp"
+        "value": "cards/images/orange/Nevada3.webp"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Nevada||"
     },
@@ -381,14 +381,14 @@
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/Minnesota.JPEG"
+        "value": "cards/images/orange/minnesota.jpeg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Minnesota||"
     },
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/Minnesota2.JPEG"
+        "value": "cards/images/orange/minnesota2.jpeg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Minnesota||"
     },
@@ -528,21 +528,21 @@
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/Mississippi.webp"
+        "value": "cards/images/orange/mississippi.webp"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Mississippi||"
     },
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/Mississippi2.jpg"
+        "value": "cards/images/orange/mississippi2.jpg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Mississippi||"
     },
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/Mississippi3.jpg"
+        "value": "cards/images/orange/mississippi3.jpg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Mississippi||"
     },
@@ -899,7 +899,7 @@
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/pennsylvania3.JPEG"
+        "value": "cards/images/orange/pennsylvania3.jpeg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Pennsylvania||"
     },
@@ -955,7 +955,7 @@
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/massachusetts2.JPEG"
+        "value": "cards/images/orange/massachusetts2.jpeg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||Massachusetts||"
     },
@@ -983,7 +983,7 @@
 	{
       "top": {
         "type": "image",
-        "value": "cards/images/orange/newhampshire3.JPEG"
+        "value": "cards/images/orange/newhampshire3.jpeg"
       },
       "bottom": "What state is this from? Click to reveal the answer.||New Hampshire||"
     },
