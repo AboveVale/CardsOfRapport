@@ -1,0 +1,2664 @@
+{
+  "cards": [
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Alaska2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Alaska||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Alaska.WebP"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Alaska||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Alaska3.AVIF"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Alaska||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Washington.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Washington||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Washington2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Washington||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Washington3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Washington||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Oregon3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Oregon||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Oregon.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Oregon||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Oregon2.avif"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Oregon||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/California.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||California||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/California2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||California||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/California3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||California||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Montana.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Montana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Montana2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Montana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Montana3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Montana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/idaho.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Idaho||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/idaho2.avif"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Idaho||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/idaho3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||idaho||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/nevada.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Nevada||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Nevada2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Nevada||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/nevada3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Nevada||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/utah.avif"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Utah||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/utah2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Utah||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/utah3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Utah||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/arizona.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Arizona||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/arizona2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Arizona||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/arizona3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Arizona||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/wyoming.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Wyoming||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/wyoming2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Wyoming||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/wyoming3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Wyoming||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/colorado.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Colorado||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/colorado2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Colorado||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/colorado3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Colorado||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newmexico.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Mexico||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newmexico2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Mexico||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newmexico3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Mexico||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/northdakota.avif"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||North Dakota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/northdakota2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||North Dakota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/northdakota3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||North Dakota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/southdakota.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||South Dakota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/southdakota2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||South Dakota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/southdakota3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||South Dakota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/nebraska.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Nebraska||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/nebraska2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Nebraska||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/nebraska3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Nebraska||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/kansas.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Kansas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/kansas2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Kansas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/kansas3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Kansas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/oklahoma.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Oklahoma||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/oklahoma2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Oklahoma||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/oklahoma3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Oklahoma||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/texas.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Texas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/texas2.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Texas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/texas3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Texas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Minnesota.JPEG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Minnesota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Minnesota2.JPEG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Minnesota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Minnesota3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Minnesota||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/wisconsin.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Wisconsin||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/wisconsin2.jpg"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Wisconsin||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/wisconsin3.jpeg"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Wisconsin||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/iowa.jpg"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Iowa||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/iowa2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Iowa||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/iowa3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Iowa||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/illinois.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Illinois||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/illinois2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Illinois||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/illinois2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Illinois||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/missouri.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Missouri||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/missouri2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Missouri||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/missouri3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Missouri||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/arkansas.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Arkansas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/arkansas2.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Arkansas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/arkansas3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Arkansas||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/louisiana.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Louisiana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/louisiana2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Louisiana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/louisiana3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Louisiana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Mississippi.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Mississippi||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Mississippi2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Mississippi||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/Mississippi3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Mississippi||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/alabama.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Alabama||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/alabama2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Alabama||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/alabama3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Alabama||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/tennessee.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Tennessee||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/tennessee2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Tennessee||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/tennessee3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Tennessee||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/kentucky.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Kentucky||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/kentucky2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Kentucky||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/kentucky3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Kentucky||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/indiana.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Indiana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/indiana2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Indiana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/indiana3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Indiana||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/michigan.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Michigan||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/michigan2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Michigan||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/michigan3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Michigan||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/ohio.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Ohio||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/ohio2.avif"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Ohio||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/ohio3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Ohio||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/florida.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Florida||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/florida2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Florida||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/florida3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Florida||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/georgia.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Georgia (USA)||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/georgia2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Georgia (USA)||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/georgia3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Georgia (USA)||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/southcarolina.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||South Carolina||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/southcarolina2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||South Carolina||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/southcarolina3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||South Carolina||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/northcarolina.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||North Carolina||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/northcarolina2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||North Carolina||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/northcarolina3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||North Carolina||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/virginia.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Virginia||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/virginia2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Virginia||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/virginia3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Virginia||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/westvirginia.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||West Virginia||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/westvirginia2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||West Virginia||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/westvirginia3.avif"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||West Virginia||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/maryland.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Maryland||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/maryland2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Maryland||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/maryland3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Maryland||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/dc.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Washington DC||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/dc2.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Washington DC||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/dc3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Washington DC||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/delaware.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Delaware||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/delaware2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Delaware||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/delaware3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Delaware||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newjersey.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Jersey||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newjersey2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Jersey||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newjersey3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Jersey||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/pennsylvania.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Pennsylvania||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/pennsylvania2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Pennsylvania||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/pennsylvania3.JPEG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Pennsylvania||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newyork.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New York||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newyork2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New York||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newyork3.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New York||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/connecticut.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Connecticut||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/connecticut2.avif"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Connecticut||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/connecticut3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Connecticut||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/massachusetts.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Massachusetts||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/massachusetts2.JPEG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Massachusetts||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/massachusetts3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Massachusetts||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newhampshire.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Hampshire||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newhampshire2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Hampshire||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/newhampshire3.JPEG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||New Hampshire||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/vermont.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Vermont||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/vermont2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Vermont||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/vermont3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Vermont||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/maine.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Maine||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/maine2.webp"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Maine||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/maine3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Maine||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/rhodeisland.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Rhode Island||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/rhodeisland2.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Rhode Island||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "cards/images/orange/rhodeisland3.JPG"
+      },
+      "bottom": "What state is this from? Click to reveal the answer.||Rhode Island||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+	  "top": {
+      "type": "text",
+      "value": "What is the population of: >>gamble.population<<?"
+     },
+     "bottom": "Click to reveal answer. ||>>answer.population<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Busiest airport of: >>gamble.geography<<. How many miles away is it?"
+      },
+      "bottom": "Click this to reveal the answer.||>>answer.geo<<||"
+    }
+  ]
+}
