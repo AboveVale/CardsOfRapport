@@ -1041,7 +1041,7 @@ function populateLoadDropdown() {
   loadDropdownContent.innerHTML = "";
 
   const btn = document.createElement("button");
-  btn.textContent = "Load from file…";
+  btn.textContent = "Click here to load from file…";
   btn.style.display = "block";
   btn.style.width = "100%";
   btn.style.background = "transparent";
@@ -1629,3 +1629,4 @@ function createBubble() {
 
 // Generate bubbles at intervals
 setInterval(createBubble, 300);
+
