@@ -73,23 +73,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do we feel like booting up lethal company? If we can survive past the second quota, we all get to skip four punishments."
-      },
-      "bottom": "Otherwise, drink up."
-    },
-	{
-      "top": {
-        "type": "text",
         "value": "As a group, choose one player."
       },
       "bottom": "When the player is chosen, click here.||>>gamble.single.50<<||"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "The party gets to vote a representative to play you in 3 rounds of Mortal Kombat, or a similar fighting game."
-      },
-      "bottom": "Best of 3 gets to choose a punishment for the other (you punish the group, or the group punishes you)."
     },
 	{
       "top": {
@@ -230,27 +216,6 @@
         "value": "Run a quick Google snake game competition."
       },
       "bottom": "Whoever wins gets to make someone spin the punishment wheel."
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
     },
 	{
       "top": {
@@ -702,3 +667,4 @@
     }
   ]
 }
+
