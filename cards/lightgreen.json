@@ -2957,7 +2957,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "How close to closing is too late to go to a fast food restaurant? 30 minutes before close? 10? 5?"
+        "value": "How close to closing is too late to go to a fast food restaurant? 30 minutes before close? 10? 5? 1?"
       },
       "bottom": "Drink if you'd go to a fast food restaurant 10 minutes before close."
     },
