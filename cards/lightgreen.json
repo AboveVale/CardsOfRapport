@@ -166,7 +166,7 @@
         "type": "text",
         "value": "What is the most embarassed you have ever been?"
       },
-      "bottom": "Wow, I am so sorry. Drink some water. Seriously, just water. Hydration is important."
+      "bottom": "Wow, I am so sorry. Drink some water. Seriously, just water. Hydration is important. Eat a treat, too."
     },
 	{
       "top": {
@@ -1004,7 +1004,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is there a seemingly normal rule of society that you have never ever followed?"
+        "value": "Is there a seemingly normal rule of society that you have never ever followed? Is there one that you do follow, that you wish you didn't have to?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -1032,9 +1032,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is the most cowardly thing you have ever done?"
+        "value": "What is the most cowardly thing you have ever done? What is the most cowardly thing you have ever seen someone do?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "To our most cowardly individual, drink up."
     },
 	{
       "top": {
@@ -1438,7 +1438,7 @@
 	    {
       "top": {
         "type": "text",
-        "value": "Have you ever stabbed someone in the back or actively plotted against them?"
+        "value": "Have you ever stabbed someone in the back or actively plotted against them? When has someone done this to you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -2285,9 +2285,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "When is the last time you ate a vegetable?"
+        "value": "When was the last time you ate a vegetable? What was it? Was it good?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The person with the most distant answer has to drink."
     },
 	{
       "top": {
@@ -2327,9 +2327,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is your daily screen time like?"
+        "value": "What is your daily screen time like? Pull out your phone and let's all take a look."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever has the highest screen time has to drink."
     },
 	{
       "top": {
@@ -2413,7 +2413,7 @@
         "type": "text",
         "value": "Everyone open up your phone's keyboard. What are your recently used emojis? What is your favorite emoji?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "If you have any suspicious emojis in your recently used, drink."
     },
 	{
       "top": {
@@ -2427,19 +2427,19 @@
         "type": "text",
         "value": "How many unread messages do you have right now? You can pull out your phone to look."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Everyone pretend the person with the most unread messages does not exist for 2 rounds. They can still speak, but do not acknowledge them. If you so much as make eye contact with them, drink."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Do you drink energy drinks or coffee? Why or why not?"
+        "value": "Do you drink energy drinks or coffee? Why or why not? If you do, when did you start? Do you remember your first drink?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What is your favorite kind of donut?"
+        "value": "What is your favorite kind of donut? When was the last time you had one?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -2455,12 +2455,12 @@
         "type": "text",
         "value": "Have you ever ridden a horse? Do you want to?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have ever ridden a horse, then give your best neigh."
     },
 	{
       "top": {
         "type": "text",
-        "value": "How do you feel about zoos and aquariums?"
+        "value": "How do you feel about zoos and aquariums? Do you have good or bad experiences with them? When was the last time you went to one?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -2621,7 +2621,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "How good is your spice tolerance?"
+        "value": "How good is your spice tolerance? What was the last spicy meal you ate?"
       },
       "bottom": "The person with the worst spice tolerance has to eat a teaspoon of a spicy seasoning."
     },
@@ -2974,6 +2974,76 @@
         "value": "cards/images/lightgreen/bathroom.jpg"
       },
       "bottom": "How does this image make you feel? Do you have any notable memories involving carpeted bathrooms?"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your least favorite dog breed? Why? Do you know anyone who owns this breed?"
+      },
+      "bottom": "Drink if you answered a dog breed that doesn't look like it ran into a wall."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your favorite dog breed? Are you capable right now of caring for this breed? Do you think you will ever be?"
+      },
+      "bottom": "Drink if your answer includes a dog breed that looks like it ran into a wall."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How many pillows is too many? How many do you own?"
+      },
+      "bottom": "Drink if you own less than 5 pillows, then let someone from the group smother you with one."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is anyone here on discord?"
+      },
+      "bottom": "Let the group scroll through your server list, or drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your favorite hobby? How did you get into it? Do you remember the first time you tried it? Who here has the longest-running hobby?"
+      },
+      "bottom": "The person with the longest-running hobby gets to make someone drink, or eat a punishment food."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Would you install a Neuralink, or a similar device, in your brain? What would make you change your opinion?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is one thing that you do that most people here do not know about?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How has your hairstyle evolved over time?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is something you wanted to be good at, but you gave up after actually trying?"
+      },
+      "bottom": "Everyone drink this round. Bunch of lazy people here."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your hotspot named? What is your home wifi named?"
+      },
+      "bottom": "● • ● ○ ● • ●"
     }
   ]
 }
