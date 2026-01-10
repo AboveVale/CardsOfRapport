@@ -3,21 +3,21 @@
     {
       "top": {
         "type": "text",
-        "value": "Where did your first ever date take place?"
+        "value": "Where did your first ever date take place? Did it go well?"
+      },
+      "bottom": "Drink up if it didn't go well."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is a strong boundary of yours in any relationship? Have you always had this boundary, or did something happen that made you set it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What is a strong boundary of yours in any relationship?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "Have you ever gone on a date you didn't want to go on?"
+        "value": "Have you ever gone on a date you didn't want to go on? What's the story?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -38,16 +38,16 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is your ideal first date?"
+        "value": "What is your ideal first date? How expensive is it? What is the weather like? Where is it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever cut a date short?"
+        "value": "Have you ever cut a date short? Has anyone ever cut a date short on you?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if someone else ended the date early on you."
     },
 	{
       "top": {
@@ -87,23 +87,23 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is love conditional?"
+        "value": "Can you truly love someone unconditionally? Would you still hold love for someone if they did something absolutely heinous?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Can men and women just be friends?"
+        "value": "Can men and women just be friends? How have you formed this opinion?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "How much of an age gap is too much?"
+        "value": "How much of an age gap is too much for a relationship? What was your biggest age gap?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever has had the largest age gap has to spin the punishment wheel."
     },
 	{
       "top": {
@@ -122,7 +122,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Are dating apps ruining romance?"
+        "value": "Are dating apps ruining romance? Explain your reasoning."
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -136,30 +136,30 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is marriage still relevant?"
+        "value": "Is marriage still relevant? Why did you get married, or why would you get married? Was/would a prenup be involved?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "How important is financial stability in a relationship?"
+        "value": "How important is financial stability in a relationship? Would you break up with someone if they were becoming a financial burden, but you loved everything else about them?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Should everyone in a relationship have a job?"
+        "value": "Should everyone in a relationship have a job? If so, how long would your partner have to be unemployed before you break up with them?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "How important is sex in a relationship?"
+        "value": "How important is sex in a relationship? How long could you be in a sexless relationship for?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you're single."
     },
 	{
       "top": {
@@ -171,7 +171,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is it okay to ghost people? When does it become okay or not okay?"
+        "value": "Is it okay to ghost people? When does it become okay or not okay? How often do you do it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -521,9 +521,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever been caught masturbating or having sex?"
+        "value": "Have you ever been walked in on while masturbating or having sex? Have you ever walked in on anyone else?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink or eat a punishment food if you've walked in on someone else. Knock first, sheesh."
     },
 	{
       "top": {
@@ -626,7 +626,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever had sex with someone of the same gender? Would you? If you normally wouldn't, is there a situation where you would?"
+        "value": "Have you ever had sex with someone of the same gender? Would you? How was it? If you normally wouldn't, is there a situation where you would?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -969,16 +969,51 @@
 	{
       "top": {
         "type": "text",
-        "value": "How would you prefer for someone to show romantic interest in you?"
+        "value": "How would you prefer for someone to show romantic interest in you? Does their gender identity change how you would like them to approach you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Do you believe in friends to lovers?"
+        "value": "Do you believe in friends to lovers? Do you have any experiences (first or second hand)?"
       },
       "bottom": "● • ● ○ ● • ●"
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "When did you realize you were queer? How long was it before you told someone else?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Fully explain your gender identity. How has it evolved over time? Do you see it changing in the future? Are you fully comfortable with your current identity?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you come out to your parents yet? How did they react? How do you wish they would have reacted?"
+      },
+      "bottom": "Drink if you are straight, or still in the closet."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you have a preferred gender in regards to dating? What percentage of your dating life have they been a part of?"
+      },
+      "bottom": "Drink if you have only ever dated one gender."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Where and how was your first time having consensual sex? Who was it with?"
+      },
+      "bottom": "Spin the punishment wheel if you have yet to lose your virginity."
     }
   ]
 }
