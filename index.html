@@ -40,6 +40,10 @@
   font-family: "Nova Round", system-ui;
   user-select: none;
 }
+body.fun-cursor *:not(#cursor-orb):not(#cursor-sparkles) {
+  cursor: none !important;
+}
+
 
 body {
   margin: 0;
@@ -53,6 +57,130 @@ body {
 
   min-height: 100vh;
   overflow: hidden;
+}
+
+/* =========================
+   CURSOR
+   ========================= */
+   #cursor-orb,
+#cursor-sparkles {
+  display: none;
+}
+
+#cursor-orb {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 9999;
+
+  /* Soft dark core + faint gravitational ring */
+  background:
+    radial-gradient(circle at center,
+      rgba(10, 6, 20, 0.9) 0%,
+      rgba(12, 8, 30, 0.85) 35%,
+      rgba(70, 40, 160, 0.35) 55%,
+      rgba(120, 90, 255, 0.25) 65%,
+      rgba(120, 90, 255, 0.05) 75%,
+      transparent 80%
+    );
+
+  /* Brighter, more readable glow */
+  box-shadow:
+    0 0 14px rgba(140, 110, 255, 0.6),
+    0 0 36px rgba(110, 80, 220, 0.45),
+    0 0 70px rgba(90, 60, 200, 0.35);
+
+  transform: translate(-50%, -50%);
+  animation: orbPulse 2.2s ease-in-out infinite;
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+/* Central singularity dot */
+#cursor-orb::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 2px;
+  height: 2px;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 0 4px rgba(255, 255, 255, 0.8);
+
+  transition:
+    width 0.15s ease,
+    height 0.15s ease,
+    box-shadow 0.15s ease,
+    opacity 0.15s ease;
+}
+
+/* Hover = stronger lensing + brighter singularity */
+#cursor-orb.hover {
+  transform: translate(-50%, -50%) scale(1.5);
+
+  /* Pulse the purple gradient itself */
+  animation:
+    orbPulse 2.2s ease-in-out infinite,
+    accretionGlow 1.6s ease-in-out infinite;
+}
+
+
+
+/* Hover singularity growth */
+#cursor-orb.hover::after {
+  width: 2px;
+  height: 2px;
+  opacity: 1;
+  box-shadow:
+    0 0 10px rgba(255, 255, 255, 1),
+    0 0 18px rgba(200, 180, 255, 0.9);
+}
+
+@keyframes accretionGlow {
+  0% {
+    filter: brightness(1) saturate(1);
+  }
+  50% {
+    filter: brightness(2) saturate(1.35) opacity(1);
+  }
+  100% {
+    filter: brightness(1) saturate(1);
+  }
+}
+
+
+
+@keyframes orbPulse {
+  0% {
+    transform: translate(-50%, -50%) scale(1);
+    filter: blur(0px);
+  }
+  50% {
+    transform: translate(-50%, -50%) scale(1.15);
+    filter: blur(0.4px);
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    filter: blur(0px);
+  }
+}
+
+
+
+/* Sparkle canvas */
+#cursor-sparkles {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9998;
 }
 
 
@@ -752,11 +880,14 @@ body {
     Cards of Rapport
   </div>
   <div class="toolbar-right">
+  <button class="toolbar-btn" onclick="ToggleCursor(this)">Toggle Cursor</button>
   <button class="toolbar-btn" onclick="openPunishmentWheel()">Punishment Wheel</button>
   <button class="toolbar-btn mute" onclick="toggleBgmMute()" title="Mute music">🔊</button>
   </div>
 </div>
 <div class="bubble-container"></div>
+<div id="cursor-orb"></div>
+<canvas id="cursor-sparkles"></canvas>
 
 <div id="main-content">
 <div class="container">
@@ -776,15 +907,15 @@ body {
     </div>
 
 	<div class="card-stack" id="whitecard" style="--c1:#1DE21D; --c2:#39EC39; --c3:#A1F5A1;" data-color="lightgreen" data-border="#1DE21D,#39EC39,#A1F5A1" onclick="playCardFlip()" onmouseenter="playHoverSound()">
-      <div class="card">General Questions & Prompts</div> <!-- Add silhouettes and inkblot -->
+      <div class="card">General Questions & Prompts</div> <!-- inkblot -->
       <div class="card">General Questions & Prompts</div>
       <div class="card">General Questions & Prompts</div>
     </div>
 
 	<div class="card-stack" style="--c1:#6D1F84; --c2:#8B28A9; --c3:#BB5BD9" data-color="warmpurple" data-border="#6D1F84,#8B28A9,#BB5BD9" onclick="playCardFlip()" onmouseenter="playHoverSound()">
-      <div class="card">Relationships,<br> Intimacy,<br> & Sex</div>
-      <div class="card">Relationships,<br> Intimacy,<br> & Sex</div>
-      <div class="card">Relationships,<br> Intimacy,<br> & Sex</div>
+      <div class="card">Relationships,<br> Intimacy,<br>Sex,<br>& Queer Identity</div>
+      <div class="card">Relationships,<br> Intimacy,<br>Sex,<br>& Queer Identity</div>
+      <div class="card">Relationships,<br> Intimacy,<br>Sex,<br>& Queer Identity</div>
     </div>
 
     <div class="card-stack" style="--c1:#2FA246; --c2:#268238; --c3:#1A5B27" data-color="green" data-border="#2FA246,#268238,#1A5B27" onclick="playCardFlip()" onmouseenter="playHoverSound()">
@@ -865,14 +996,12 @@ body {
   <div class="modal-content">
     <h2>Rules and Tips</h2>
     <ol>
-      <li>No punishment is final. Sometimes you just really don't feel like doing something, and that's okay! If you refuse a punishment, the group gets to vote on a new punishment for you. Of course, the game is more fun the more you play along, so don't refuse every punishment.</li>
-	  <li>Most cards, unless stated otherwise, are directed for the entire group the answer. Punishments and rewards (displayed at the bottom of the card) tend to be the same way.</li>
-	  <li>If you choose not to answer a card, you either have to drink, or the group punishes you.</li>
-      <li>"Nasty shots" are shots formulated for the sole purpose of being gross, though safe to consume. Adding spices, foods, and sauces to a base liquid in hopes of making someone hate their life.</li>
-      <li>The arrows above the cards allow you to cycle through drawn cards.</li>
-      <li>You can save and load your game so that you can return at a later time without drawing the same cards. Just remember to give your save a name!</li>
-      <li>When the box at the bottom of the card is blacked out, it means a spoiler has been put over it. Click the spoiler to disable it, and click it again to re-enable it.</li>
+	  <li>The rules here are pretty self explanatory, so I'll just give some tips for you.</li>
       <li>Press f11 (or fn+f11) on your keyboard to full-screen the game. It's more immersive this way.</li>
+	  <li>Some cards call for: crackers, milk, alcohol, 'treat' food, and 'punishment' food. Do with this what you will.</li>
+	  <li>Some cards also call to punish others with 'nasty shots'. These shots are intentionally made to make someone regret choosing to play this game with you. Add spices, sauces, foods, and more to a base liquid to make something truly abhorrent.</li>
+	  <li>You can save and load your game with the toolbar up top. Click in the dropdown to load a save file.</li>
+	  <li>This game was made by a queer person for queer people, so some questions will assume you are gay. Go ahead and drink if you are straight.</li>
     </ol>
     <div class="modal-buttons">
       <button id="rules-close" class="modal-btn">Close</button>
