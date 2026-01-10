@@ -250,7 +250,7 @@
         "type": "text",
         "value": "Are there any queer constructs, phrases, events, etc... that irk you?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "You must answer this question in the gayest tone of voice you can muster."
     },
 	{
       "top": {
@@ -409,7 +409,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What execution method should be used for the death penalty?"
+        "value": "What execution method should be used for the death penalty, regardless of if you support it or not?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -697,6 +697,146 @@
       "top": {
         "type": "text",
         "value": "Would you forgive a former nazi who seems upset with who they were?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What are your viewpoints on guns? Weapons in general? Do you own any weapons?"
+      },
+      "bottom": "Drink, then eat 5 crackers at once if you own a firearm."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Are wars ever justified? Has the US ever been justified in joining a war against another country?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If you could kill an entirety of one type of people (poor people, rich people, slumlords, politicians, men, thieves, etc...), would you choose to do so? What group would you choose? Why?"
+      },
+      "bottom": "Drink if your answer is controversial with the group."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Who is your favorite person here?"
+      },
+      "bottom": "Drink if you don't want to answer, or if you say you don't have a favorite."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you have any beliefs that, even if shown overwhelming and reliable evidence to the contrary, you will never ever let go of? For example, a flat Earther flying to space and still believing the Earth is flat."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your stance on abortion? What makes it okay, or not okay?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should schools have armed officers? If so, is their training adequate? Do you have any first or second-hand experiences involving the school resource officers? How many did your school have?"
+      },
+      "bottom": "Drink if your school had more than one resource officer."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If an officer breaks the law to gather evidence that puts away someone who was definitely guilty of a heinous crime, is the officer morally corrupt? Where would you draw the line?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How do you feel about police officers as individuals? How do you feel about the institution? Do you have any experiences involving them, good or bad?"
+      },
+      "bottom": "Drink if you have been arrested. Eat 5 crackers in one go if you haven't, or eat a punishment food."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is animal testing ever justified? How would the world be different if we had to test on humans instead? In the same vein, are humans inherently more valuable than other animals?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should junk food be banned? If not, should it be made a bit healthier? Should it be more expensive?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should developed countries be required to pay workers from poorer countries the same wages they pay their citizens?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should parents be allowed to dismiss their children from sensitive topics in school? Has it ever happened to you?"
+      },
+      "bottom": "Drink if you or someone you were friends with weren't allowed to attend a lesson because your parents were worried about it."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should prostitution be legalized? What would be the pros and cons of this happening?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should we be exploring space yet? Should our resources be used elsewhere?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you believe we landed people on the moon?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did Michael Jackson do the things he was accused of? Back up your claims."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should the driving age be raised? Why or why not?"
+      },
+      "bottom": "Drink if you learned to drive at 16."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should there be more or less regulations on casinos? Have you ever been to one? Would you go to one?"
+      },
+      "bottom": "Drink if you have been to a casino before. Drink and spin the wheel if you have lost money at a casino before."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Are kill shelters acceptable? What is the alternative?"
       },
       "bottom": "● • ● ○ ● • ●"
     }
