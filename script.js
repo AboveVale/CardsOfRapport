@@ -1630,3 +1630,108 @@ function createBubble() {
 // Generate bubbles at intervals
 setInterval(createBubble, 300);
 
+
+// ==========================================================================
+// ======================== CURSOR =====================================================================================================================================================================
+// ==========================================================================
+const orb = document.getElementById("cursor-orb");
+const canvas = document.getElementById("cursor-sparkles");
+const ctx = canvas.getContext("2d");
+
+let mouseX = 0;
+let mouseY = 0;
+let sparkles = [];
+
+function resize() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+}
+window.addEventListener("resize", resize);
+resize();
+
+document.addEventListener("mousemove", (e) => {
+  mouseX = e.clientX;
+  mouseY = e.clientY;
+
+  orb.style.left = mouseX + "px";
+  orb.style.top = mouseY + "px";
+
+  // Emit sparkles
+  for (let i = 0; i < 3; i++) {
+    sparkles.push({
+      x: mouseX,
+      y: mouseY,
+      vx: (Math.random() - 0.5) * 1.2,
+      vy: (Math.random() - 0.5) * 1.2,
+      life: 40 + Math.random() * 20,
+      size: 1 + Math.random() * 2
+    });
+  }
+});
+
+// Hover detection
+const interactiveSelector = `
+  a,
+  button,
+  input,
+  textarea,
+  select,
+  label,
+  [role="button"],
+  [onclick],
+  summary
+`;
+document.addEventListener("mouseover", (e) => {
+  if (e.target.closest(interactiveSelector)) {
+    orb.classList.add("hover");
+  }
+});
+
+document.addEventListener("mouseout", (e) => {
+  if (e.target.closest(interactiveSelector)) {
+    orb.classList.remove("hover");
+  }
+});
+
+// Sparkle animation
+function animateSparkles() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+  sparkles = sparkles.filter(s => s.life > 0);
+  for (const s of sparkles) {
+    s.x += s.vx;
+    s.y += s.vy;
+    s.life--;
+
+    ctx.beginPath();
+    ctx.arc(s.x, s.y, s.size, 0, Math.PI * 2);
+    ctx.fillStyle = `rgba(160, 130, 255, ${s.life / 60})`;
+    ctx.fill();
+  }
+
+  requestAnimationFrame(animateSparkles);
+}
+animateSparkles();
+
+window.funCursorEnabled = false; // starts OFF
+
+window.ToggleCursor = function(button) {
+  const orb = document.getElementById("cursor-orb");
+  const canvas = document.getElementById("cursor-sparkles");
+  const body = document.body;
+
+  window.funCursorEnabled = !window.funCursorEnabled;
+
+  if (window.funCursorEnabled) {
+    body.classList.add("fun-cursor");
+    orb.style.display = "block";
+    canvas.style.display = "block";
+    if (button) button.textContent = "Toggle Cursor";
+  } else {
+    body.classList.remove("fun-cursor");
+    orb.style.display = "none";
+    canvas.style.display = "none";
+    if (button) button.textContent = "Toggle Cursor";
+  }
+};
+
