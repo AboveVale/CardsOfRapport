@@ -1189,6 +1189,111 @@
         "value": "What kind of people do you feel most comfortable around? What kind of people do you feel most uncomfortable around?"
       },
       "bottom": "If anyone here is a member of the 'uncomfortable' group, take a drink. If you are a member of the cool group, exchange high fives."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever been sent to detention? What for?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you know what happened to the kids you went to school with? Where are they now? Research some names if you remember them."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What were your parents like as you were growing up? How did their behavior and personality evolve over the years?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What were your parents like before they had you?"
+      },
+      "bottom": "Drink if your parents were boring. Eat a treat if your parents were cool."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How do you think your life would have changed if you were an only child, or if you had siblings?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did your parents have kids at the right time? Do you think they should have waited, or not had them at all?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What were your family gatherings like? How many people were there? Were there diverse personalities?"
+      },
+      "bottom": "Drink if your family never had gatherings."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Spill some family drama from when you were a kid."
+      },
+      "bottom": "Whoever has the best drama gets to make someone take a drink or spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What were your school summer breaks normally like? Winter breaks?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Which school year was the most jarring to enter into?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had a teacher crash out or break down? What happened? Were they justified?"
+      },
+      "bottom": "Drink if you were part of the reason why."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did you ever have scholastic book fairs in your school? If so, what did you spend your parent's money on there?"
+      },
+      "bottom": "Drink if you didn't have book fairs."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What were the kitchen staff like in your school?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did you ever put effort into your school fund raisers? How much? Did you get any rewards?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If you earned an allowance as a kid, what did you spend your money on?"
+      },
+      "bottom": "Drink if you did not earn an allowance."
     }
   ]
 }
