@@ -1014,6 +1014,41 @@
         "value": "Where and how was your first time having consensual sex? Who was it with?"
       },
       "bottom": "Spin the punishment wheel if you have yet to lose your virginity."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Would you rather date someone smarter than you, or dumber than you? Have you ever dated someone the opposite of your answer?"
+      },
+      "bottom": "Drink if you date dummies."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What were some issues you have experienced in a relationship that were entirely caused by lack of proper communication? If you don't have any stories of your own, have you personally seen any from other people's relationships? "
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What do you do with your partner(s) that you would never do with anyone else?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If you chose your name, how did you go about doing so? Why did it stick out to you? How long did it take? If you go by your given name, have you ever considered changing it? What would you change it to? Do you know why your parents chose the name that they did?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How do you refer to the queer community in conversation? The gays? LGBTQ? LGBTQQIP2SAA? Queers?"
+      },
+      "bottom": "● • ● ○ ● • ●"
     }
   ]
 }
