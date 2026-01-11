@@ -453,7 +453,7 @@
         "type": "text",
         "value": "Are you jealous of me for anything, small or large?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if nobody is jealous of you. Ouch."
     },
 	{
       "top": {
@@ -1039,9 +1039,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "What's a problem you let go on too long before addressing it?"
+        "value": "What's a problem you let go on too long before addressing it? Did it ever arise again? Did you ever actually address it how you should have?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if your story doesn't involve properly addressing the issue."
     },
 	    {
       "top": {
@@ -1585,9 +1585,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Who here needs a hug the most?"
+        "value": "Who here needs a hug the most? Who here wants a hug the most?"
       },
-      "bottom": "Let the group vote on it. The winner gets to make two people hug."
+      "bottom": "Click here after everyone answers. ||Let the group vote on who needs one the most. The winner gets to make two people hug. The person who wants a hug the most has to drink, and sit or stand at least 3 feet away from any other players for 5 minutes. Creep.||"
     },
 	{
       "top": {
@@ -1606,7 +1606,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do you have a passport?"
+        "value": "Do you have a passport? When did you get it, and did you run into any complications during the process? Have you ever actually used it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -3111,14 +3111,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do you think you experience any emotions in a stronger or different way than most other people do?"
+        "value": "Do you think you experience any emotions in a stronger or different way than most other people do? Do you have a story regarding the matter?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What relatively common experience have you never had?"
+        "value": "What relatively common experience have you never had? Would you like to have this experience?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
