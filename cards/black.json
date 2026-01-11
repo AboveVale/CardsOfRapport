@@ -1,0 +1,670 @@
+{
+  "cards": [
+    {
+      "top": {
+        "type": "text",
+        "value": "Reveal your bank account to the group."
+      },
+      "bottom": "Or do 25 push-ups."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Let the most enthusiastic person in the group scroll through your browsing history."
+      },
+      "bottom": "Or give them your phone, and let them pretend to be you, while they send a VERY passionate text message to one of your parents or siblings about how much they mean to you."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Let the group dig through one of your dating profiles."
+      },
+      "bottom": "Or let them create one for you. If neither, take a nasty shot."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Pull out a pen and paper. The group will rough draft some tattoo ideas, and when they have decided, someone will draw it on you with a sharpie. You can choose where it goes."
+      },
+      "bottom": "Everyone owes the card reader $10 if they actually do get the tattoo later."
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "Show the party your resume. If you do not have a resume, you have to become everyone's loyal servant for the next 3 rounds. If you do have a resume, you have to add one person here as a reference."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone has two minutes to decide what organ they should cut out of my body to sell on the black market. No researching allowed. It is me vs the group, so you will be voting together for one organ, and I will be voting on my own."
+      },
+      "bottom": "After the two minutes is up, research what both organs go for on the black market. If I win, everyone else has to take a shot. If the group wins, or we tie, you get to sharpie around your voted organ like you are marking cut lines, and I have to take a shot."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone has to do an impersonation of me."
+      },
+      "bottom": "May the top voted impersonation win! Our resident identity-thief gets to make one person drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Walk to the mailbox and back."
+      },
+      "bottom": "Click to reveal after they leave||If they checked the mail, or asked beforehand if they should, give them a treat. If they didn't check the mail, or did not ask, they must take a drink.||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone reveal your calculator history."
+      },
+      "bottom": "The biggest dumbass has to divide 73 by 2 without a calculator, paper, or help. If they take longer than one minute, or get the answer wrong, they have to drink. Everyone feel free to try and distract them, or steer them in the wrong direction."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "The spoiler below has a 50% chance of holding a reward, and a 50% chance of holding a punishment. It may be group or singular. You should probably hold this to a vote."
+      },
+      "bottom": "Oooooh spooky spoiler!||>>gamble.default.50<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "As a group, choose one player."
+      },
+      "bottom": "When the player is chosen, click here.||>>gamble.single.50<<||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Whoever drew this card needs to shut themselves in the bathroom."
+      },
+      "bottom": "Click this when they are away.||Everyone completely ignore them until they return on their own. If they last more than 5 minutes in there, everyone here must take a shot.||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Pick one person from the group, and make them close their eyes. Everyone else, read the spoiler part in your heads. You can react out loud, just don't spoil it."
+      },
+      "bottom": "Click here when their eyes are closed.||Think of some really good news (you can make something up), and try to relay it to your closed-eyed friend in a way that makes it sound bad. If they can guess what you are trying to say, you have to drink. Click this again when you are done reading.||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Close your eyes. The party will take it over from here. Party, read the spoiler in your heads."
+      },
+      "bottom": "Click here when their eyes are closed.||DON'T ACT YET! In a minute, pretend you just read something really funny or baffling. Say stuff like 'NO WAY,' or 'THAT'S CRAZY.' If they ask what this is about three or more times, they have to drink. Click on this spoiler again when you are done reading.||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Go play a round of geo guesser."
+      },
+      "bottom": "If the group does well, you all get to skip your next punishment. Otherwise, drink up."
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "Nobody peek! Everyone try to guess what time it is."
+      },
+      "bottom": "The most accurate answer gets to make someone drink. Flip a coin if it's a tie."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Swish a shot of alcohol around in your mouth."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+	  "top": {
+        "type": "text",
+        "value": "!!video!! Truly, I am sorry. I couldn't control myself."
+      },
+      "bottom": "Anyone who flinched has to drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What percentage is my phone battery at?"
+      },
+      "bottom": "If anyone can guess within 10% of your charge, you have to drink. The closest guess gets to skip their next punishment."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Spin the punishment wheel."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Take a picture of the person who drew this card with your flash on."
+      },
+      "bottom": "The first person to take a picture (with the flash on) gets to skip their next two punishments."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Who here is the best at winking? Let's hold it to a vote."
+      },
+      "bottom": "Winner skips their next punishment. Loser has to dramatically wink at someone every time they say something, and speak with a very cheeky tone for 2 rounds."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Pick one person to have a staring contest with."
+      },
+      "bottom": "Loser spins the punishment wheel. Winner skips their next punishment."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Pick one person to challenge. Both of you will take a shot of alcohol, but hold it in your mouths until one person swallows or spits it out. "
+      },
+      "bottom": "The winner can pass their next 3 punishments on to someone else."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Go around in a circle saying the alphabet backwards."
+      },
+      "bottom": "The person who messes it up gets the letter they said drawn on them wherever the party chooses."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Choose a mostly reasonable item in the room for someone else to hold."
+      },
+      "bottom": "Click here when they are holding the item.||If they set it down for even a second in the next 10 minutes, they drink. Otherwise, you do.||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "I spy something yellow."
+      },
+      "bottom": "The last person to spy something has to drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, sing about tonight."
+      },
+      "bottom": "If the group likes your song, you do not have to drink. Otherwise, drink up."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, Take a shot or the person on your left has to do 35 push ups."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+    {
+      "top": {
+        "type": "text",
+        "value": "Card puller, pick a person. They will take two opaque cups and flip them over, hiding a shot glass filled with an alcohol of their choosing. You must lift one cup. If you pull the cup with a shot glass under it, you have to drink."
+      },
+      "bottom": "Otherwise, if you pull the cup without a shot glass under it, they have to drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Run a quick Google snake game competition."
+      },
+      "bottom": "Whoever wins gets to make someone spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone make a paper airplane. You are not allowed to research the best methods."
+      },
+      "bottom": "The person who makes the worst plane has to drink. "
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone do your best british accent."
+      },
+      "bottom": "The person with the worst accent has to drink, then they have to talk in their horrible accent for three rounds."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone do your best rich person laugh. Use it in a sentence."
+      },
+      "bottom": "The person with the best rich person laugh is not allowed to laugh normally for 5 rounds, or they have to drink. Also drink if you naturally have a rich person laugh."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, someone else will choose a pose for you to hold for 2 minutes. Good luck."
+      },
+      "bottom": "Spin the punishment wheel if you fail."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, pretend you are on a cooking show, and explain the recipe for cereal. Props are appreciated."
+      },
+      "bottom": "Put some cereal in your next drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, do your best runway walk."
+      },
+      "bottom": "If the group likes it, you become immune to the next punishment. If they dislike it, spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "You just got a call. Pretend to be on call for 2 rounds. You can put the person on hold only while you answer."
+      },
+      "bottom": "If you break character even once, you have to spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, pretend like your overbearing manager is calling you asking you to come in. You've gotta weasel out of it in a way that probably won't land you into trouble."
+      },
+      "bottom": "If the group thinks you succeeded, you become immune to your next punishment. Otherwise, spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Speak only as if you are asking questions for the next two rounds."
+      },
+      "bottom": "If you fail, spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Make a face and hold it until the end of the next round."
+      },
+      "bottom": "If you get caught slipping, spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Every time someone says your name for the next 5 minutes, you have to clap."
+      },
+      "bottom": "If you fail, SPIN THE PUNISHMENT WHEEL!"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone wink."
+      },
+      "bottom": "Whoever has the worst wink has to drink."
+    },
+	{
+      "top": {
+        "type": "image",
+        "value": "!!canvas!!"
+      },
+      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing. They have to draw it with their non-dominant hand. ||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing. You will also have to spin the punishment wheel.||"
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "Card puller, you are now a commercial host. Try to sell one thing in the room to the group. Make it interesting."
+      },
+      "bottom": "Group, was this a good commercial? If not, make them spin the wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Create a new 5-step handshake with the person to your right."
+      },
+      "bottom": "If it gets awkward at any point, both of you have to spin the wheel and share the punishment."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "card puller, give a motivational speech about something really boring."
+      },
+      "bottom": "Group, were you bored? If anyone genuinely laughs, the card puller has to drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone pull out your camera and try to take the coolest photo you can within 60 seconds."
+      },
+      "bottom": "The person with the coolest photo can pick two people to spin the punishment wheel. The two people will only spin it once, and share the punishment."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, try to sell the clothes on your body as if they are high fashion. The more fancy details, the better."
+      },
+      "bottom": "If the group isn't sold, you have to drink. If they are, you skip your next two punishments."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone make a conspiracy about something within eyesight. You can also look out the window."
+      },
+      "bottom": "The best conspiracy theorist can skip their next two punishments, and dish out one punishment."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, act like you just won the lottery."
+      },
+      "bottom": "Click here after everyone judges your performance.||If you gave a believeable performance, everyone else has to drink. Otherwise, you have to drink.||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Card puller, the group will give you a nickname. Everyone must abide by it for 10 rounds."
+      },
+      "bottom": "If anyone fails, the entire group has to drink (other than you)."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Make intense eye contact with the person sitting across from, or to the right of you for 30 seconds."
+      },
+      "bottom": "If you laugh, you have to spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone, balance your phones on your heads for the next 2 minutes."
+      },
+      "bottom": "The first person who drops their phone has to drink. If everyone succeeds, the group has to drink. Taunting is allowed, but no physical touch."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do not laugh, smile, or make eye contact with anyone for the next two rounds. When talking, speak in a very monotone voice."
+      },
+      "bottom": "Drink if you fail. If you succeed, pass this punishment on to someone else."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone, give your best fake sneeze. Please cover your mouths."
+      },
+      "bottom": "The most convincing gets to skip their next punishment."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do not speak any words that include the letters 'F' or 'S' until the next player gets punished."
+      },
+      "bottom": "If anyone catches you failing, spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Everyone, do your best evil villain laugh."
+      },
+      "bottom": "The person with the worst villain laugh has to spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Name 10 countries in 15 seconds."
+      },
+      "bottom": "If you fail, or name a continent, take a drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "The group will vote in a sheriff. Card puller, you just got pulled over for a potential DUI. Sheriff, give the card puller a field sobriety test."
+      },
+      "bottom": "If you fail the sobriety test, you have to drink."
+    }
+  ]
+}
+

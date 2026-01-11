@@ -1,0 +1,1054 @@
+{
+  "cards": [
+    {
+      "top": {
+        "type": "text",
+        "value": "Where did your first ever date take place? Did it go well?"
+      },
+      "bottom": "Drink up if it didn't go well."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is a strong boundary of yours in any relationship? Have you always had this boundary, or did something happen that made you set it?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever gone on a date you didn't want to go on? What's the story?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What's a red flag in a relationship to you?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What's a green flag in a relationship to you?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your ideal first date? How expensive is it? What is the weather like? Where is it?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever cut a date short? Has anyone ever cut a date short on you?"
+      },
+      "bottom": "Drink if someone else ended the date early on you."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your ideal relationship dynamic? Why?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is any type of relationship dynamic 'natural'?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is cheating ever forgiveable?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should couples share passwords?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is it ever okay to go through your partner's phone? Have you ever gone through your partner's phone?"
+      },
+      "bottom": "A random person from the group, who has gone through their partner's phone, must give up their phone for 30 seconds for others to look through."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Can you truly love someone unconditionally? Would you still hold love for someone if they did something absolutely heinous?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Can men and women just be friends? How have you formed this opinion?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How much of an age gap is too much for a relationship? What was your biggest age gap?"
+      },
+      "bottom": "Whoever has had the largest age gap has to spin the punishment wheel."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What would it take for you to date older by 10 years? 30 years? 50 years?"
+      },
+      "bottom": "The person who is most willing to date an 80 year old drinks."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is dating easier or harder than it used to be? Explain your reasoning."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Are dating apps ruining romance? Explain your reasoning."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you use dating apps? Which app is your favorite? When did you start using them?"
+      },
+      "bottom": "If you do, let the group go through your messages with one person of their choosing. Drink if you don't have any matches."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is marriage still relevant? Why did you get married, or why would you get married? Was/would a prenup be involved?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How important is financial stability in a relationship? Would you break up with someone if they were becoming a financial burden, but you loved everything else about them?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Should everyone in a relationship have a job? If so, how long would your partner have to be unemployed before you break up with them?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How important is sex in a relationship? How long could you be in a sexless relationship for?"
+      },
+      "bottom": "Drink if you're single."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is it morally acceptable to have children without financial stability? How much money should people have before having a child?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Is it okay to ghost people? When does it become okay or not okay? How often do you do it?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Would you scratch an itch for me? What part of the body do you draw the line at?"
+      },
+      "bottom": "If anyone gets whorish, they have to take a drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How soon is too soon for sex? How late is too late?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How long is too long for a hug? Does it change the more you know someone?"
+      },
+      "bottom": "The person who likes hugging the most has to complete the next 5 card rounds with their arms in their shirt."
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "What is your type?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Describe your ideal partner. Have you ever dated someone like this?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever been in love? How do you know?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If you are single or poly, do you think you need to work on anything before entering a new relationship? If not, why?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you have any failed relationships? Explain."
+      },
+      "bottom": "Everyone gets a treat! Hopefully this wasn't too awkward..."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Describe your first kiss. Did you kiss them again later?"
+      },
+      "bottom": "Whoever didn't kiss their first kiss a second time takes a drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How many people have you kissed? How many people have you intimately held hands with?"
+      },
+      "bottom": "Everyone scoot away from the whores. Herpes is a real threat. WHY DOES EVERYONE ACT LIKE I AM CRAZY FOR THIS!!"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is the worst date you have ever been on?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Tell us what you wish you'd said during your last breakup, but didn't."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Would anything make you hit your partner? What about your friend?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What would make you break up with your partner?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Are you interested in having kids? Why or why not?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever broken up with someone, then gotten back together? What's the story?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever wanted to date a friend's ex? Fill us in. Are they still your friend?"
+      },
+      "bottom": "If you have, take a shot."
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "Have you ever shot someone down romantically? Did you feel bad?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever done any grand gestures to try and repair a failing relationship or friendship?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "When was the last time you spoke to an ex? What was it about? Was there any tension?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How many kids is too many kids? How many kids do you plan to have?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever been shot down romantically? What happened?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Tell us what you do to annoy your partner on purpose?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How compatible are we romantically?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How far are you willing to drive regularly to see a partner? What about a friend?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How soon into a relationship are you comfortable with nudity?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Regardless of whether you want kids, do you think you would be a good parent?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Am I anyone's type here?"
+      },
+      "bottom": "Only click on this if nobody says yes.||Oh my... wow. Are they ugly? Are they weird? What's wrong with them? What can they fix?||"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you think I'm a dom or a sub? Top or bottom? Do we all know the difference?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had a pregnancy scare? How did you react?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Tell us about a time you deliberately did something to provoke your partner."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had to hide a partner from your parents? What's the story?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had a partner hide you from their friends or parents? How did it make you feel?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your biggest issue with dating apps?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever sent nudes?"
+      },
+      "bottom": "To those who have, use your phone as a prop to show how you took them."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever made porn? Would you ever make porn? What's stopping you?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What's something sexual that you would never do?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "When was the last time you masturbated? How did you do it?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is the minimum amount of time you should wait before telling someone you love them. What about the maximum?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How far would you travel for sex?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had a sugar daddy/mommy? If not, would you? What are your conditions?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How much money would you need to make to consider being a prostitute?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "When is the last time you got tested for STDs? Good news or bad news?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Without asking any questions, rank each other on how many sexual partners you think everyone has had."
+      },
+      "bottom": "Whoever was the farthest off has to drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If you have a penis, how big is it?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever helped someone get laid? What's the story?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever participated in an orgy or threesome? Do you care to?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is the most memorable orgasm you have ever had?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had a wet dream? What was the dream?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever been walked in on while masturbating or having sex? Have you ever walked in on anyone else?"
+      },
+      "bottom": "Drink or eat a punishment food if you've walked in on someone else. Knock first, sheesh."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Describe your first time having sex. Did both sides have fun?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "When is the last time you had sex? Did you come?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How long do you go in between orgasms?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have your parents ever tried to set you up with anyone? How did you feel about that?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What two people here have the best sexual chemistry with each other?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "What is the most down bad you have ever been?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever gone skinny dipping? Set the scene."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What would it take for you to sleep with someone you're not at all physically attracted to?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever been really turned on at a really inopportune time?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever involved food in sex? Would you, and what food?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you think you give good head?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever paid for sex work? Would you?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you see yourself committing to one sexual partner for the rest of your life? Why or why not?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your most extreme fantasy? What is your most mild one?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had sex with someone of the same gender? Would you? How was it? If you normally wouldn't, is there a situation where you would?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What do you need to get off?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you think you're a good kisser?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is the kinkiest thing you have ever asked someone else to do? What is the kinkiest thing anyone has ever asked you to do?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "All of us are making a porn together. What's everyones role? Who is starring, writing, directing, filming, etc...?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you watch porn? What kind? What is the most unusual porn you have ever watched?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "Who here will likely have the most sexual partners before death?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had a one night stand? Would you?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever paid for porn? Would you?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever filmed yourself having sex? Where is the footage at now?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What was your sex education like?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did your parents ever try to explain sex and sex safety to you? Did they do a good job? Was it too late?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever done something sexual in public?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Who was the last person to see you naked?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Describe the perfect foreplay."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What are (or would be) your ground rules for a polyamorous relationship? Is it something you have ever considered?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Are you more or less sexperimental than the average person?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever slid into someones DMs?"
+      },
+      "bottom": "If the messages are retrievable, show them to the group."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Give us a passionate example of your dirty talk."
+      },
+      "bottom": "Or drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What was the last game-changing innovation introduced into your sex life?"
+      },
+      "bottom": "Pitch it like you are a salesman. Props are appreciated."
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "Inadvertent nudity. Tell us about when it happened to you."
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is the biggest mess you've ever created during sex? Who cleaned it up?"
+      },
+      "bottom": "Drink if you left a mess for someone else to clean up. Spin the punishment wheel while you're at it."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If the group voted for it, would you flash or moon us all?"
+      },
+      "bottom": "Everyone but the card puller has to drink if the card puller wouldn't flash the group."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Where is the strangest place you've had sex?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Tell us about the first ever time you saw porn? How did you feel about it? Did you seek it out?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How much money would a voyeuristic billionaire have to pay us for us to have sex for their entertainment?"
+      },
+      "bottom": "The cheapest answer has to have a penis drawn on their chest or stomach."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is a sexual thing that you tried, but couldn't get into?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What scared you the most about sex as you were coming of age? Do you still have some of these fears?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever had any success on a dating app? What do you consider success?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Would you go to a swingers club, even if not to swing?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your favorite sexual position? Why?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If you can abstain from sex and masturbation for a full year, you'll win $27,000 and a nice used car. Will you make it?"
+      },
+      "bottom": "Anyone who can't gets a penis drawn somewhere on their torso."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "When was the last time you had unprotected, aka 'authentic', sex? How well did you know the person? Would you do it again?"
+      },
+      "bottom": "Drink if you've never had unprotected sex. Spin the wheel if you have had unprotected sex with someone you weren't planning on being with forever."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you need an emotional connection to have great sex? Have you always?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "If your sex life was like a pie chart, what portion of it would be: unsatisfactory, satisfactory, and mind-blowing?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you have any porn actually downloaded to your device? Why so?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Are you loud during sex? Do you think your neigbors can hear you sometimes?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you shave your pubic hair? Do you style it?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever been injured during sex?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did you ever think something from porn was realistic until you became sexually active?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is the most surprising discovery you made about your own body?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you keep condoms on you normally? Do you have one with you right now?"
+      },
+      "bottom": "Pull one out and throw it at someone if you do."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever done something sexual while driving? Do you think it should count as distracted driving?"
+      },
+      "bottom": "Take a drink if you have."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you know your partner's phone password? Do they know that you know?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What pet names do you use for your significant other? How did this start?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What is your worst date story?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever walked out of the bedroom during sex? Why?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Has anyone tried to set you up with a partner before, and suggested someone that you immediately said no to?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever been stood up? What's the story?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How would you prefer for someone to show romantic interest in you? Does their gender identity change how you would like them to approach you?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you believe in friends to lovers? Do you have any experiences (first or second hand)?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	    {
+      "top": {
+        "type": "text",
+        "value": "When did you realize you were queer? How long was it before you told someone else?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Fully explain your gender identity. How has it evolved over time? Do you see it changing in the future? Are you fully comfortable with your current identity?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you come out to your parents yet? How did they react? How do you wish they would have reacted?"
+      },
+      "bottom": "Drink if you are straight, or still in the closet."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you have a preferred gender in regards to dating? What percentage of your dating life have they been a part of?"
+      },
+      "bottom": "Drink if you have only ever dated one gender."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Where and how was your first time having consensual sex? Who was it with?"
+      },
+      "bottom": "Spin the punishment wheel if you have yet to lose your virginity."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Would you rather date someone smarter than you, or dumber than you? Have you ever dated someone the opposite of your answer?"
+      },
+      "bottom": "Drink if you date dummies."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What were some issues you have experienced in a relationship that were entirely caused by lack of proper communication? If you don't have any stories of your own, have you personally seen any from other people's relationships? "
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What do you do with your partner(s) that you would never do with anyone else?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If you chose your name, how did you go about doing so? Why did it stick out to you? How long did it take? If you go by your given name, have you ever considered changing it? What would you change it to? Do you know why your parents chose the name that they did?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "How do you refer to the queer community in conversation? The gays? LGBTQ? LGBTQQIP2SAA? Queers?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    }
+  ]
+}
