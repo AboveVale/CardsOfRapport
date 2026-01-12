@@ -17,9 +17,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do you think people are too easily offended? Is this a new issue?"
+        "value": "How do you feel about museums? Many have artifacts stolen from foreign lands and religious sites. Is it more beneficial to show people in a physical sense that these exist, than it is detrimental to the cultures the artifacts were taken from?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The card puller must grab one item in the room, and speak of it as if they are giving a history presentation. Talk about the object's life. Where did it begin, how did it get here, and where will it end up?"
     },
 	{
       "top": {
@@ -38,21 +38,21 @@
 	{
       "top": {
         "type": "text",
-        "value": "What traditional values do you agree with? Which ones do you primarily disagree with?"
+        "value": "What traditional values do you agree with? Which ones do you primarily disagree with? Do you have any stories or experiences relating to these values?"
+      },
+      "bottom": "Drink if you have a conservative parent."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Do you think traditions need to be respected? Which traditions come to mind if you think otherwise? Do you have any traditions?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Do you think traditions need to be respected? Which traditions come to mind if you think otherwise?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "Is religion more harmful or helpful to society? Give personal examples."
+        "value": "Is religion more harmful or helpful to society? Give personal examples, and explain your connection with religion as a whole."
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -68,7 +68,7 @@
         "type": "text",
         "value": "What are your opinions on cultural appropriation? For example, wearing certain hairstyles, garments, getting tribal tattoos, etc..."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Regardless of everyone's viewpoints, drink if you are appropriating another culture right now."
     },
 	{
       "top": {
@@ -80,14 +80,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "What are your opinions on patriotism, historically and presently?"
+        "value": "What are your opinions on patriotism, historically and presently? Has it done more harm than good? Have you ever been, or are you currently patriotic? What does patriotism mean to you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are people more, less, or equally moral than they were 100 years ago?"
+        "value": "Are people more, less, or equally moral than they were 100 years ago? How do you think people will view us and our morality 100 years from now? Describe what you invision when you hear the word immoral."
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -101,16 +101,16 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is your opinion on taxes? Are they used correctly? How should they be used?"
+        "value": "What are the top 3 things you believe our tax money should go into?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The least popular answer has to drink, and locate the email for the office of their elected representative. Up to you if you want to slide up in their DMs."
     },
 	{
       "top": {
         "type": "text",
-        "value": "What system of government do you think is best?"
+        "value": "What system of government do you think is best? What part of our current system is holding us back the most?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever comes up with the best answer for the second question gets to make someone drink."
     },
 	{
       "top": {
@@ -129,9 +129,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "What age would you cap political candidates at?"
+        "value": "What age would you cap political candidates at? In addition, what experience do you think should be necessary for the position?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Everyone pick who you believe would be most qualified to run the country. This person will rule the group for 8 rounds. As ruler, you can veto, alter, or spread punishments and rewards. If the group doesn't appreciate your rule, they can vote to replace you. Any new ruler gets to rule for 8 rounds, unless overthrown."
     },
 	{
       "top": {
@@ -143,16 +143,16 @@
 	{
       "top": {
         "type": "text",
-        "value": "How far should government surveillance be allowed to go? Should we cut back on it?"
+        "value": "How far should government surveillance be allowed to go? Should we cut back on it? If you had to set a strict limit for this, how would you phrase it?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The person with the best phrasing gets to make two people stare each other in the eyes for one solid minute."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are you more of a protest person, or a riot person? How far is too far with either?"
+        "value": "Are you more of a protest person, or a riot person? How far is too far with either? Have you participated in either?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you've never been to a protest."
     },
 	{
       "top": {
@@ -173,26 +173,26 @@
         "type": "text",
         "value": "Can you judge people of the past for the standards of their time? Explain."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Card-puller, give your best impersonation of a man from the 1860s transporting into this very room. If the group dislikes your impersonation, take a drink. Otherwise, have a treat."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Is morality subjective or objective?"
+        "value": "Is morality subjective or objective? For example, lying to spare someone's feelings is seen as okay to some, but not to others. Do you believe the people who disagree with you on moral topics are objectively immoral?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Should intent matter more than outcome?"
+        "value": "Should intent matter more than outcome? Is it contextual? If someone totaled your car, injuring you and your loved ones, because they were speeding to get to the hospital for an emergency, would you forgive them? How long would it take?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have ever had to be speedily transported to the hospital."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are moral absolutes real? In other words, are there certain things that are always right, or always wrong?"
+        "value": "Are moral absolutes real? In other words, are there certain things that are always right, or always wrong? Give examples of the good and the bad. Group, feel free to play the devil's advocate."
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -206,7 +206,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Should forgiveness always be encouraged? Do we forgive too much or too little?"
+        "value": "Should forgiveness always be encouraged? Do we forgive too much or too little? Have you ever told someone you forgave them, then regretted it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -220,28 +220,28 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is monogamy natural?"
+        "value": "Is monogamy natural? If that's the case, then are other relationship types unnatural? Why do you think most people are monogamous, and why do you think others lean towards different dynamics?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you are anything other than monogamous."
     },
 	{
       "top": {
         "type": "text",
         "value": "Is it okay to spank children? How did your parents punish you?"
       },
-      "bottom": "Drink if your parents spanked you as a kid."
+      "bottom": "Drink if your parents spanked you as a kid. You should go hit them back."
     },
 	{
       "top": {
         "type": "text",
-        "value": "When is physical violence okay?"
+        "value": "When is physical violence okay? Do you have a personal story of a time where it definitely wasn't okay?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What's your opinion on multi-gendered bathrooms?"
+        "value": "What's your opinion on multi-gendered bathrooms designed as standard American bathrooms, door gaps and all?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -320,7 +320,7 @@
         "type": "text",
         "value": "What's your stance on slavery in prisons?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you've ever been arrested."
     },
 	{
       "top": {
@@ -332,14 +332,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is AI a threat to humanity? Why or why not?"
+        "value": "Is AI a threat to humanity? Why or why not? How could we continue to develop it, but steer it in the right direction?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Should AI replace human jobs?"
+        "value": "Should AI replace human jobs? Which ones in particular?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -355,7 +355,7 @@
         "type": "text",
         "value": "Are smartphones making us dumber?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever has the least amount of available storage on their phone has to drink."
     },
 	{
       "top": {
@@ -374,7 +374,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is online anonymity good or bad?"
+        "value": "Is online anonymity good or bad? What have you done with your anonymous digital identity?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
