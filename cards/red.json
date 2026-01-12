@@ -26,7 +26,7 @@
         "type": "text",
         "value": "What is your opinion on social media? Is it doing more harm than good?"
       },
-      "bottom": "Drink if you own 3 or more social media apps."
+      "bottom": "Drink if you have 3 or more social media apps."
     },
 	{
       "top": {
@@ -52,14 +52,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is religion more harmful or helpful to society? Give examples."
+        "value": "Is religion more harmful or helpful to society? Give personal examples."
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Should public schools teach religion? How did your schools discuss it?"
+        "value": "How should public schools teach of religion? How did your schools teach it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -73,7 +73,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Should statues of controversial figures be removed?"
+        "value": "Should statues of controversial figures be removed? Which ones come to mind?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -115,14 +115,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "What do you think of genetic altering? Does altering an infant's genes to reduce risk of disease, increase height, or even change eye color cross lines? What about modifying other traits?"
+        "value": "What do you think of genetic altering? Does altering an infant's genes to reduce risk of disease, increase height, or even change eye color cross lines? What about modifying other traits? Do you wish your parents were able to modify you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Should former presidents recieve lifelong security and benefits? How long should presidents serve for?"
+        "value": "How long should presidents serve for? Should former presidents recieve lifelong security and benefits?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
