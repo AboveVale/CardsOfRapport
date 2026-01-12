@@ -150,7 +150,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What was the biggest fear you have ever overcome? How long ago was this? Did you intentionally set out do overcome this fear?"
+        "value": "What was the biggest fear you have ever overcome? How long ago was this? Did you intentionally set out to overcome this fear?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -3152,3 +3152,4 @@
     }
   ]
 }
+
