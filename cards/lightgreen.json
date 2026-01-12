@@ -101,9 +101,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is the best gift you have ever recieved?"
+        "value": "What is the best physical gift you have ever recieved? Do you still have it?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you do not have the gift any more."
     },
 	{
       "top": {
@@ -150,7 +150,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What was the biggest fear you have ever overcome?"
+        "value": "What was the biggest fear you have ever overcome? How long ago was this? Did you intentionally set out do overcome this fear?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -171,9 +171,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "What single object have you held onto and kept longer than any other?"
+        "value": "What single object have you held onto and kept longer than any other? Where is it right now?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you don't actually know exactly where it is, but you know that you have it."
     },
 	{
       "top": {
@@ -201,7 +201,7 @@
         "type": "text",
         "value": "Brag about yourself."
       },
-      "bottom": "If you have nothing, the group has to give you therapy until you can write down 10 good things about yourself."
+      "bottom": "If you have nothing, the group has to give you therapy until you can write down 5 good things about yourself."
     },
 	{
       "top": {
@@ -213,16 +213,16 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is the last goal of yours you accomplished? Do you feel better about accomplishing it?"
+        "value": "What is the last goal of yours you accomplished? Do you feel better about accomplishing it? What is the next goal you seek to accomplish?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What is your greatest accomplishment?"
+        "value": "What is your greatest accomplishment? How long ago did you accomplish this?"
       },
-      "bottom": "Whoever can't name something meaningful to them does 15 sit-ups. Gotta start somewhere!"
+      "bottom": "Whoever can't name something meaningful to them does 15 sit-ups. If your greatest accomplishment was in highschool or earlier, take a drink."
     },
 	{
       "top": {
@@ -255,7 +255,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever been overpaid for something? Who paid you, and why did they pay you so much?"
+        "value": "Have you ever been overpaid for something? Who paid you, and why did they pay you so much? How much should you have been paid?"
       },
       "bottom": "The first person who speaks up about not getting overpaid for something has to hold out a mug and ask for spare change. The person who gives the most gets to make someone take a drink."
     },
@@ -264,21 +264,21 @@
         "type": "text",
         "value": "What is the first app you open in the morning? Alarm clock apps do not count."
       },
-      "bottom": "Anyone who opens something other than social media gets a treat."
+      "bottom": "Anyone who opens something other than social media gets a treat. If the first app you open is a social media app, spin the punishment wheel."
     },
 	{
       "top": {
         "type": "text",
         "value": "What animal do you think I look like?"
       },
-      "bottom": "Anyone who is said to be a 'pettable' animal gets a pat on the head."
+      "bottom": "Anyone who is said to be a 'pettable' animal gets a pat on the head. If you are said to be anything else, search up images of your animal online. If any of the first 10 pictures of the animal show something unflattering, you have to drink."
     },
 	{
       "top": {
         "type": "text",
         "value": "How much money do we think each other has?"
       },
-      "bottom": "The believed wealthiest person is to not be acknowledged for 5 rounds, though they can still try to participate. If they make anyone acknowledge them without physical touch, their punishment resets and is transferred to that person. If they fail, they must drink."
+      "bottom": "The believed wealthiest person is to not be acknowledged for 2 rounds, though they can still try to participate. If they make anyone acknowledge them without physical touch, their punishment resets and is transferred to that person. If they fail, they must drink."
     },
 	{
       "top": {
@@ -292,21 +292,21 @@
         "type": "text",
         "value": "What is your depression food?"
       },
-      "bottom": "Whoever is voted to have the most depressing answer has to take a very depressing shot, concocted by the group."
+      "bottom": "Whoever is voted to have the most depressing answer has to take a very depressing and nasty shot, concocted by the group."
     },
 	{
       "top": {
         "type": "text",
-        "value": "What bad habit have you kicked? Do you have to fight going back?"
+        "value": "What bad habit have you kicked? Do you have to fight going back? How long ago did you succeed?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What bad habit are you trying to kick?"
+        "value": "What bad habit are you trying to kick? How long have you been trying?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "If anyone is seen partaking in their answered bad habit during any point in this game, they have to drink or eat a punishment food. This punishment does not expire. For example, if you are caught biting your nails 3 times, you will be punished 3 times."
     },
 	{
       "top": {
@@ -332,7 +332,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "You have the ability to instantly master any skill. What do you choose?"
+        "value": "What do you think the coolest skill is? What do you think the most useful skill is? Which one would you prefer?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -353,16 +353,16 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever participated in malicious compliance? When?"
+        "value": "Have you ever participated in malicious compliance? When? What was the outcome?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Describe an act of petty protest you waged at work or school."
+        "value": "Describe an act of petty protest you waged at work or school. Did it lead to anything?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Everyone throw one thing at the pettiest person. They will have to clean it up, just don't make it too messy."
     },
 	{
       "top": {
@@ -374,14 +374,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "What did you think you would hate, but you ended up loving?"
+        "value": "What did you think you would hate, but you ended up loving? Why did you think you would hate it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What did you think you would love, but you ended up hating?"
+        "value": "What did you think you would love, but you ended up hating? Why did you think you would love it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -397,14 +397,14 @@
         "type": "text",
         "value": "What are your vices? What do you do or use to cope?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you cope with substances. Oof, maybe not actually... On second thought, let's leave it up to chance. To drink, or not to drink? Click here to find out.||Drink up. This card was rigged, and you were always going to drink.||"
     },
 	{
       "top": {
         "type": "text",
         "value": "Have you ever lost your cool? Tell us what happened. Do you regret it?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Put an ice cube down your shirt or pants if you haven't lost your cool before."
     },
 	{
       "top": {
@@ -423,21 +423,21 @@
 	{
       "top": {
         "type": "text",
-        "value": "How many dishes are currently in your sink?"
+        "value": "How many dishes are currently in your sink? How many are normally in your sink?"
       },
       "bottom": "Whoever has the most dishes piled in their sink has to go wash one dish right now."
     },
 	{
       "top": {
         "type": "text",
-        "value": "You are dropped off in a random US city with a car, but no phone. You are unable to ask for help, and unable to use a map. Do you think you'll be able to make it back?"
+        "value": "You are dropped off in a random US city with a car, but no phone. You are unable to ask for help, and unable to use a map. Do you think you'll be able to make it back home?"
       },
-      "bottom": "If anyone thinks they can make it back, and the group agrees, they get a treat."
+      "bottom": "If anyone thinks they can make it back, and the group agrees, they get a treat. If the group disagrees, they drink."
     },
 	{
       "top": {
         "type": "text",
-        "value": "We are road tripping through the middle of nowhere. Do you have me drive or navigate?"
+        "value": "We are road tripping through the middle of nowhere. Do you have me drive, navigate, or sit in the back seat?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -458,35 +458,35 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever tried to impress me? When, and how?"
+        "value": "Have you ever tried to impress me? When, and how? Did it work?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Who here has likely committed the most crimes?"
+        "value": "Who here has likely committed the most crimes? Nobody volunteer yourselves until the votes have ended."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Click here when the voting has ended.||Our biggest criminal has to grab an item within arm's reach, and politely attempt to rob everyone in the group with it. Everyone else should also grab something within reach. If your weapon is worse than the robber's, you have to give them something. If more than half of everyone's weapons are better than the robber's, the robber must drink.||"
     },
 	    {
       "top": {
         "type": "text",
-        "value": "What do you need to fall asleep? Can you sleep anywhere?"
+        "value": "What do you need to fall asleep? Can you sleep anywhere? Generally, how long does it take you to fall asleep at night?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Where do you feel most at home?"
+        "value": "Where, as in what physical environment, do you feel most at home? Has this changed over the years?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever gotten away with something that you definitely shouldn't have?"
+        "value": "Have you ever gotten away with something that you definitely shouldn't have? Did anyone ever find out?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -507,23 +507,23 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is the story of your worst injury? What happened?"
+        "value": "What is the story of your coolest injury? What happened? How easily could it have been avoided?"
+      },
+      "bottom": "The person with the lamest story has to drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "When was a time you narrowly avoided disaster? On the contrary, when was a time you almost avoided disaster, but didn't quite?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "When was a time you narrowly avoided disaster?"
+        "value": "What is the longest period of time you've held a secret for? If you've already broken the secret, what was it?"
       },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "What is the longest period of time you've held a secret for?"
-      },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Have a treat if you're still holding on to that secret. Drink if you broke your longest-held secret."
     },
 	{
       "top": {
@@ -535,9 +535,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "What was your strangest interaction with a stranger?"
+        "value": "What was your weirdest interaction with a stranger? What was a stranger's weirdest interaction with you?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever weirded someone else out the most has to drink."
     },
 	{
       "top": {
