@@ -796,7 +796,7 @@
         "type": "text",
         "value": "Tell us about the first ever time you saw porn? How did you feel about it? Did you seek it out?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you were younger than 18."
     },
 	{
       "top": {
@@ -824,26 +824,26 @@
         "type": "text",
         "value": "Have you ever had any success on a dating app? What do you consider success?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Would you go to a swingers club, even if not to swing?"
+        "value": "Would you go to a swingers club, even if not to swing? What would be your favorite area in the club (bar, bdsm dungeon, glory holes, lounge, etc...)?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What is your favorite sexual position? Why?"
+        "value": "What is your favorite sexual position? Why? How often do you do it, and how often do you try new positions?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "If you can abstain from sex and masturbation for a full year, you'll win $27,000 and a nice used car. Will you make it?"
+        "value": "If you can abstain from sex and masturbation for a full year, you'll win $27,000 and a nice used car. Will you make it? No loopholes, you cannot come for a full year."
       },
       "bottom": "Anyone who can't gets a penis drawn somewhere on their torso."
     },
@@ -871,35 +871,35 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do you have any porn actually downloaded to your device? Why so?"
+        "value": "Do you have any porn actually downloaded to your device? Why so? How long ago did you download it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are you loud during sex? Do you think your neigbors can hear you sometimes?"
+        "value": "Are you loud during sex? Do you think your neigbors can hear you sometimes? When have you been the loudest during sex?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Do you shave your pubic hair? Do you style it?"
+        "value": "Do you shave your pubic hair? Do you style it? When was the last time you shaved? Pull up a picture of the (head) hairstyle that most matches your pubic hair style."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you are clean shaven."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever been injured during sex?"
+        "value": "Have you ever been unintentionally injured during sex? How badly?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever has unintentionally been hurt the most during sex has to drink, then find one person in the room to beat. Hurt people hurt people."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Did you ever think something from porn was realistic until you became sexually active?"
+        "value": "Did you ever think something from porn was realistic until you became sexually active? Did you make a serious attempt at it before realizing it wasn't very realistic? How did that pan out for you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -927,7 +927,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do you know your partner's phone password? Do they know that you know?"
+        "value": "What is a random fond memory you have about any of your partners? If you don't have any, what is a nice memory you have about you treating yourself?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -936,21 +936,21 @@
         "type": "text",
         "value": "What pet names do you use for your significant other? How did this start?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Everyone must refer to each other in pet names for the next 5 rounds. If you fail, or refuse, you drink."
     },
 	{
       "top": {
         "type": "text",
-        "value": "What is your worst date story?"
+        "value": "What is your best date story? What made it so good?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you've never been on a date."
     },
 	{
       "top": {
         "type": "text",
         "value": "Have you ever walked out of the bedroom during sex? Why?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have."
     },
 	{
       "top": {
@@ -962,9 +962,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever been stood up? What's the story?"
+        "value": "Have you ever been stood up? What's the story? Have you ever stood someone up, or considered it?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have been stood up. Spin the punishment wheel if you have stood someone up."
     },
 	{
       "top": {
@@ -976,14 +976,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do you believe in friends to lovers? Do you have any experiences (first or second hand)?"
+        "value": "Do you believe in friends to lovers? Do you have any experiences (first or second hand)? What makes it okay or not okay?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	    {
       "top": {
         "type": "text",
-        "value": "When did you realize you were queer? How long was it before you told someone else?"
+        "value": "When did you realize you were queer? How long was it before you told someone else? How long was it before you accepted it yourself?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -1011,9 +1011,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Where and how was your first time having consensual sex? Who was it with?"
+        "value": "What is a green flag you look for in someone that you don't exhibit yourself? Do you think this makes you a worse partner? Have you ever had this green flag?"
       },
-      "bottom": "Spin the punishment wheel if you have yet to lose your virginity."
+      "bottom": "Spin the punishment wheel if your answer is unpopular with the group."
     },
 	{
       "top": {
@@ -1032,7 +1032,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What do you do with your partner(s) that you would never do with anyone else?"
+        "value": "What's something small you do with your partner(s) that you would never do with anyone else?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -1048,8 +1048,9 @@
         "type": "text",
         "value": "How do you refer to the queer community in conversation? The gays? LGBTQ? LGBTQQIP2SAA? Queers?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Everyone has to talk in the gayest way possible for the next 2 rounds. Failure = drink."
     }
   ]
 }
+
 
