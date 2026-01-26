@@ -5,7 +5,7 @@
         "type": "text",
         "value": "What is your opinion on cancel culture? Who should have been cancelled, but wasn't, or vice-versa?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you would be canceled as celebrity."
     },
 	{
       "top": {
@@ -20,13 +20,6 @@
         "value": "How do you feel about museums? Many have artifacts stolen from foreign lands and religious sites. Is it more beneficial to show people in a physical sense that these exist, than it is detrimental to the cultures the artifacts were taken from?"
       },
       "bottom": "The card puller must grab one item in the room, and speak of it as if they are giving a history presentation. Talk about the object's life. Where did it begin, how did it get here, and where will it end up?"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "What is your opinion on social media? Is it doing more harm than good?"
-      },
-      "bottom": "Drink if you have 3 or more social media apps."
     },
 	{
       "top": {
@@ -73,7 +66,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Should statues of controversial figures be removed? Which ones come to mind?"
+        "value": "Should statues of controversial figures be removed? Which ones come to mind? What should these statues be replaced with? How important is the preservation of their story to you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -103,7 +96,7 @@
         "type": "text",
         "value": "What are the top 3 things you believe our tax money should go into?"
       },
-      "bottom": "The least popular answer has to drink, and locate the email for the office of their elected representative. Up to you if you want to slide up in their DMs."
+      "bottom": "The least popular answer has to drink, and locate the email for the office of one of their their elected representatives. Up to you if you want to slide up in their DMs."
     },
 	{
       "top": {
@@ -122,9 +115,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "How long should presidents serve for? Should former presidents recieve lifelong security and benefits?"
+        "value": "How long should presidents serve for? Should former presidents recieve lifelong security and benefits? Do you think having a president is the best system for us or anyone? What would your ideal alternative be?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you had a childhood dream of becoming president."
     },
 	{
       "top": {
@@ -157,21 +150,21 @@
 	{
       "top": {
         "type": "text",
-        "value": "When do you consider lying to be morally right? When is the last time you told a lie? Do you think you were correct for telling this lie?"
+        "value": "When do you consider lying to be morally right? When is the last time you told a lie? Do you think you were correct for telling this lie? Have you ever regretted telling a lie?"
       },
       "bottom": "Whoever told a lie the last has to take a drink, or take a bite out of the oldest thing in the fridge."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are humans naturally selfish? Explain."
+        "value": "Are humans naturally selfish? Are you naturally selfish? What are your selfish, and selfless tendencies?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Can you judge people of the past for the standards of their time? Explain."
+        "value": "Can you judge people of the past for the standards of their time? Explain. What is one example you would give to the contrary of your general opinion?"
       },
       "bottom": "Card-puller, give your best impersonation of a man from the 1860s transporting into this very room. If the group dislikes your impersonation, take a drink. Otherwise, have a treat."
     },
@@ -213,35 +206,21 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is it cowardly to be neutral in a moral debate? When was the last time you sat on the sidelines of such a debate?"
+        "value": "Is it cowardly to be neutral in a moral debate? When was the last time you sat on the sidelines of such a debate? What if it becomes physical? Is it cowardly, or acceptable, for someone to intentionally not intervene with an ICE raid? How would you react?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Is monogamy natural? If that's the case, then are other relationship types unnatural? Why do you think most people are monogamous, and why do you think others lean towards different dynamics?"
-      },
-      "bottom": "Drink if you are anything other than monogamous."
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "Is it okay to spank children? How did your parents punish you?"
+        "value": "Is it okay to spank children? How did your parents punish you? How would you punish your kids?"
       },
       "bottom": "Drink if your parents spanked you as a kid. You should go hit them back."
     },
 	{
       "top": {
         "type": "text",
-        "value": "When is physical violence okay? Do you have a personal story of a time where it definitely wasn't okay?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "What's your opinion on multi-gendered bathrooms designed as standard American bathrooms, door gaps and all?"
+        "value": "When is physical violence okay? Do you have a personal story of a time where it definitely wasn't okay? Have you ever been physically violent with anyone?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -255,14 +234,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is representation in media authentic or forced? Does it matter?"
+        "value": "Is representation in media authentic or forced? Does it matter? What is your least favorite, and favorite example of representation in media?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are stereotypes ever accurate?"
+        "value": "Are stereotypes ever accurate? What are some innacurate ones?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -276,7 +255,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Would wiping world debt be more beneficial or detrimental to society?"
+        "value": "Would wiping all world debt be more beneficial or detrimental to society? What are the realistic outcomes of it, good and bad?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -318,7 +297,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What's your stance on slavery in prisons?"
+        "value": "What's your stance on slavery in prisons? If someone is convicted of murder, is it okay to force them to clean trash on the side of the road?"
       },
       "bottom": "Drink if you've ever been arrested."
     },
@@ -339,7 +318,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Should AI replace human jobs? Which ones in particular?"
+        "value": "Should automation replace human jobs? Which ones in particular? What are the pros and cons?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -353,21 +332,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Are smartphones making us dumber?"
+        "value": "Are smartphones making us dumber? What would it take for you to switch to a flip phone? To not have a phone at all?"
       },
       "bottom": "Whoever has the least amount of available storage on their phone has to drink."
     },
 	{
       "top": {
         "type": "text",
-        "value": "How strictly should social media be regulated?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "At what age should someone get unrestricted access to the internet?"
+        "value": "How strictly should social media be regulated? If you had to choose one, would you prefer the wild west days of the internet, where anything could be uploaded, or would you prefer strict regulation?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -388,16 +360,16 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is veganism morally superior?"
+        "value": "Is veganism morally superior? What would it take for you to become vegan if you aren't already? Have you ever attempted?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Should any substances (weed, alcohol, vapes, etc...) be banned?"
+        "value": "Should any substances (weed, alcohol, vapes, shrooms, cocaine, etc...) be banned?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have done a substance you think should be banned."
     },
 	{
       "top": {
@@ -409,7 +381,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What execution method should be used for the death penalty, regardless of if you support it or not?"
+        "value": "What execution method should be used for the death penalty, regardless of if you support it or not? If you want to make a tier list of execution methods based on crime type, feel free."
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -423,7 +395,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Should judges be strict to the law?"
+        "value": "Should judges be strict to the law? Would life be better if judges had more leeway with decisions, or if they absolutely had to stay strict with the law?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -437,51 +409,44 @@
 	{
       "top": {
         "type": "text",
-        "value": "Should juvenile records be wiped when they become adults?"
+        "value": "Should juvenile records be wiped when they are released from prison or become adults? Should only some records be wiped?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have a criminal record."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Do humans actually have free will?"
+        "value": "Do humans actually have free will? Have you ever truly exercised yours?"
       },
       "bottom": "The person who most shows their free will gets to make someone take a shot."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Is there a purpose to life?"
+        "value": "Is there a purpose to life? What is your purpose?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Does meaning require suffering?"
+        "value": "Does meaning require suffering? Could you truly be happy if you never experienced sorrow or pain? If you could remove all pain and suffering from your life, would you? Would it dull you as a person?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Is ignorance bliss?"
+        "value": "Is ignorance bliss? Do you know something that you wish you didn't?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are trigger warnings necessary?"
+        "value": "What do you think of tipping culture? How much do you tip at a sit-down restaurant? What about a restaurant like Subway? How much do you tip your barber?"
       },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "What do you think of tipping culture?"
-      },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you survive off of tips."
     },
 	{
       "top": {
@@ -500,9 +465,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever intentionally committed a crime? Tell us the story!"
+        "value": "If you had to completely kill the populations of 5 nations, which ones would you choose? Everyone there will die brutal deaths, including yourself if you pick your own nation."
       },
-      "bottom": "Everyone except for the biggest criminal drinks!"
+      "bottom": "Whoever does the most damage to the world population drinks."
     },
 	{
       "top": {
@@ -521,13 +486,6 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever stolen anything? What, and why? Do you still have it?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
         "value": "Describe a time you thought you were actually going to die?"
       },
       "bottom": "● • ● ○ ● • ●"
@@ -536,13 +494,6 @@
       "top": {
         "type": "text",
         "value": "Do you genuinely hate anybody for a non-political reason? What is the story?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "What is a controversial opinion of yours?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -649,12 +600,12 @@
         "type": "text",
         "value": "What is a law you fundamentally disagree with?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The person who picks the most obscure law gets to make someone else drink."
     },
 	{
       "top": {
         "type": "text",
-        "value": "What do you think about borders? Are they important, or should people be able to roam and live wherever they desire?"
+        "value": "What do you think about borders? Are they important, or should people be able to roam and live wherever they desire? How would governments change if people could go wherever they wanted?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -677,12 +628,12 @@
         "type": "text",
         "value": "What does our government owe to its people?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The most detailed answer gets to make someone else take a drink."
     },
     {
       "top": {
         "type": "text",
-        "value": "What should living with minimum wage pay look like?"
+        "value": "What should living with minimum wage pay look like? How much do you think minimum wage should be to accomplish this? What was your experience working your lowest-wage job?"
       },
       "bottom": "Drink if you make minimum wage."
     },
@@ -696,14 +647,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Would you forgive a former nazi who seems upset with who they were?"
+        "value": "Would you forgive a former nazi who genuinely seems remorseful with who they were? What if they became a powerful pro-rights advocate for marginalized groups?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What are your viewpoints on guns? Weapons in general? Do you own any weapons?"
+        "value": "What are your viewpoints on guns? Weapons in general? Do you own any weapons? Why?"
       },
       "bottom": "Drink, then eat 5 crackers at once if you own a firearm."
     },
@@ -738,7 +689,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is your stance on abortion? What makes it okay, or not okay?"
+        "value": "What is your stance on abortion? What makes it okay, or not okay? Have you ever had to get one?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -775,7 +726,7 @@
         "type": "text",
         "value": "Should junk food be banned? If not, should it be made a bit healthier? Should it be more expensive?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever has the most junk food in their pantry has to drink, and find something healthy to eat."
     },
 	{
       "top": {
@@ -794,7 +745,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Should prostitution be legalized? What would be the pros and cons of this happening?"
+        "value": "Should prostitution be legalized? What would be the pros and cons of this happening? How would the industry be changed?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -810,14 +761,14 @@
         "type": "text",
         "value": "Do you believe we landed people on the moon?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you don't believe in the moon landing."
     },
 	{
       "top": {
         "type": "text",
         "value": "Did Michael Jackson do the things he was accused of? Back up your claims."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The most passionate person has to give their best HeE-HeE"
     },
 	{
       "top": {
@@ -877,3 +828,4 @@
     }
   ]
 }
+
