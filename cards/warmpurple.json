@@ -3,35 +3,35 @@
     {
       "top": {
         "type": "text",
-        "value": "Where did your first ever date take place? Did it go well?"
+        "value": "Where did your first ever date take place? Did it go well? Was there a second date?"
       },
       "bottom": "Drink up if it didn't go well."
     },
 	{
       "top": {
         "type": "text",
-        "value": "What is a strong boundary of yours in any relationship? Have you always had this boundary, or did something happen that made you set it?"
+        "value": "What is a strong or unique boundary of yours in any relationship? Have you always had this boundary, or did something happen that made you set it?"
+      },
+      "bottom": "Drink if nobody else here has this boundary."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Have you ever gone on a date you didn't really want to go on? What's the story?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever gone on a date you didn't want to go on? What's the story?"
+        "value": "What's a red flag in a relationship to you? Have you ever ignored it? What's the biggest red flag you ignored?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you ignored a pretty big red flag."
     },
 	{
       "top": {
         "type": "text",
-        "value": "What's a red flag in a relationship to you?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "What's a green flag in a relationship to you?"
+        "value": "What's the biggest green flag in a relationship to you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -59,23 +59,23 @@
 	{
       "top": {
         "type": "text",
-        "value": "Is any type of relationship dynamic 'natural'?"
+        "value": "Is any type of relationship dynamic 'natural'? What feels most natural to you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Is cheating ever forgiveable?"
+        "value": "Is cheating ever forgiveable? What would it take to forgive it?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Should couples share passwords?"
+        "value": "Should partners share passwords? Do you share passwords with your partners?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if your significant other has access to your phone."
     },
 	{
       "top": {
@@ -108,23 +108,23 @@
 	{
       "top": {
         "type": "text",
-        "value": "What would it take for you to date older by 10 years? 30 years? 50 years?"
+        "value": "What would it take for you to date older by 10 years? 30 years? 50 years? We're talking 2 times a week, and maybe moving in later."
       },
       "bottom": "The person who is most willing to date an 80 year old drinks."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Is dating easier or harder than it used to be? Explain your reasoning."
+        "value": "Is dating easier or harder than it used to be? Explain your reasoning. When was dating the hardest and easiest for you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Are dating apps ruining romance? Explain your reasoning."
+        "value": "Are dating apps ruining romance? Explain your reasoning. What would make them better?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have Tinder."
     },
 	{
       "top": {
@@ -166,14 +166,14 @@
         "type": "text",
         "value": "Is it morally acceptable to have children without financial stability? How much money should people have before having a child?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have children, or would have a child with less than $1,000,000 in your bank account."
     },
 	{
       "top": {
         "type": "text",
         "value": "Is it okay to ghost people? When does it become okay or not okay? How often do you do it?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "If you have ghosted someone in the past 3 months, you must remain absolutely SILENT for 3 rounds, unless it is your turn to speak. Any verbal sounds, you drink."
     },
 	{
       "top": {
@@ -185,7 +185,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "How soon is too soon for sex? How late is too late?"
+        "value": "How soon is too soon for sex? How late is too late? What is the longest amount of time you have waited before having sex with a partner?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -199,30 +199,30 @@
 	    {
       "top": {
         "type": "text",
-        "value": "What is your type?"
+        "value": "What is your type? How has this changed over the years?"
+      },
+      "bottom": "Drink if you described anyone here who is not your partner."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Describe your ideal partner. Have you ever dated someone like this? Have you ever met anyone like this?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "Describe your ideal partner. Have you ever dated someone like this?"
+        "value": "Have you ever been in love? How do you know? How many times?"
       },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "Have you ever been in love? How do you know?"
-      },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Whoever has been in love the most has to drink."
     },
 	{
       "top": {
         "type": "text",
         "value": "If you are single or poly, do you think you need to work on anything before entering a new relationship? If not, why?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Everyone pick someone in the group who has a significant other. This person has to sit in someone's lap of their partner's choosing."
     },
 	{
       "top": {
@@ -248,7 +248,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is the worst date you have ever been on?"
+        "value": "What is the worst date you have ever been on? Did you go on another date with them?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -257,26 +257,26 @@
         "type": "text",
         "value": "Tell us what you wish you'd said during your last breakup, but didn't."
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you haven't broken up with anyone."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Would anything make you hit your partner? What about your friend?"
+        "value": "Would anything make you hit your partner? What about your friend? Has your partner ever hit you?"
+      },
+      "bottom": "Drink if you've hit your partner before. Someone from the group must hit you if you've been hit by your partner."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "What would or has made you break up with your partner? Have you regretted breaking up with anyone?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "What would make you break up with your partner?"
-      },
-      "bottom": "● • ● ○ ● • ●"
-    },
-	{
-      "top": {
-        "type": "text",
-        "value": "Are you interested in having kids? Why or why not?"
+        "value": "Are you interested in having kids? Why or why not? Has this ever changed? Could it change?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -297,9 +297,9 @@
 	    {
       "top": {
         "type": "text",
-        "value": "Have you ever shot someone down romantically? Did you feel bad?"
+        "value": "Have you ever shot someone down romantically? Did you feel bad? When was the last time?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if it has been less than a month since you've shot someone down."
     },
 	{
       "top": {
@@ -311,16 +311,16 @@
 	{
       "top": {
         "type": "text",
-        "value": "When was the last time you spoke to an ex? What was it about? Was there any tension?"
+        "value": "When was the last time you spoke to an ex? What was it about? Was there any tension? Why are they your ex?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "How many kids is too many kids? How many kids do you plan to have?"
+        "value": "How many kids is too many kids? How many kids do you plan to have? Who have you met that has way too many kids?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have 3 or more siblings, or want 4 or more kids."
     },
 	{
       "top": {
@@ -332,7 +332,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Tell us what you do to annoy your partner on purpose?"
+        "value": "Tell us what you do to annoy your partner on purpose."
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -341,7 +341,7 @@
         "type": "text",
         "value": "How compatible are we romantically?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you are playing with your sibling(s)."
     },
 	{
       "top": {
@@ -367,7 +367,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Am I anyone's type here?"
+        "value": "Am I anyone's type here? Could I change anything to become your type?"
       },
       "bottom": "Only click on this if nobody says yes.||Oh my... wow. Are they ugly? Are they weird? What's wrong with them? What can they fix?||"
     },
@@ -409,14 +409,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "What is your biggest issue with dating apps?"
+        "value": "What is your biggest issue with dating apps? What is your least favorite dating app? What was your worst interaction on one?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "If you have Hinge, you have to awkwardly slide into someone's DM's here."
     },
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever sent nudes?"
+        "value": "Have you ever sent nudes? Would you?"
       },
       "bottom": "To those who have, use your phone as a prop to show how you took them."
     },
@@ -425,12 +425,12 @@
         "type": "text",
         "value": "Have you ever made porn? Would you ever make porn? What's stopping you?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have."
     },
 	{
       "top": {
         "type": "text",
-        "value": "What's something sexual that you would never do?"
+        "value": "What's something sexual that you would never do? Have you tried something you would never do again?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -451,7 +451,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "How far would you travel for sex?"
+        "value": "How far would you travel for sex? How far have you?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -461,7 +461,7 @@
         "value": "Have you ever had a sugar daddy/mommy? If not, would you? What are your conditions?"
       },
       "bottom": "● • ● ○ ● • ●"
-    },
+	},
 	{
       "top": {
         "type": "text",
@@ -474,7 +474,7 @@
         "type": "text",
         "value": "When is the last time you got tested for STDs? Good news or bad news?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you've never been tested."
     },
 	{
       "top": {
@@ -514,7 +514,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever had a wet dream? What was the dream?"
+        "value": "Have you ever had a wet dream? What was the dream? How often do you have sex dreams?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -528,14 +528,14 @@
 	{
       "top": {
         "type": "text",
-        "value": "Describe your first time having sex. Did both sides have fun?"
+        "value": "Describe your first time having sex. Did both sides have fun? Did both sides come?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
 	{
       "top": {
         "type": "text",
-        "value": "When is the last time you had sex? Did you come?"
+        "value": "When is the last time you had sex? Did you come? Did they come?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -570,7 +570,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Have you ever gone skinny dipping? Set the scene."
+        "value": "Have you ever gone skinny dipping? Would you ever? What would it take?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -598,9 +598,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Do you think you give good head?"
+        "value": "Do you think you give good head? Do you like giving and receiving head? How high of a priority is it for you?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have given head before. "
     },
 	{
       "top": {
@@ -635,7 +635,7 @@
         "type": "text",
         "value": "What do you need to get off?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "The easiest person to get off has to drink. Someone should also hit them in the dick if they are a man."
     },
 	{
       "top": {
@@ -696,7 +696,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "What was your sex education like?"
+        "value": "What was your sex education like? What do you wish was talked about more?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -787,7 +787,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "Where is the strangest place you've had sex?"
+        "value": "Where is the strangest place you've had sex? Where is the strangest place you want to have sex?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
@@ -1052,3 +1052,4 @@
     }
   ]
 }
+
