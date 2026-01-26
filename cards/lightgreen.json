@@ -2747,9 +2747,9 @@
 	{
       "top": {
         "type": "text",
-        "value": "Can we judge the people of the past for their morality, even if they were following the normal rules of their society?"
+        "value": "What is your opinion on social media? Is it doing more harm than good? How often do you use social media?"
       },
-      "bottom": "● • ● ○ ● • ●"
+      "bottom": "Drink if you have 3 or more social media apps."
     },
 	{
       "top": {
@@ -3152,4 +3152,5 @@
     }
   ]
 }
+
 
