@@ -871,7 +871,42 @@
 	{
       "top": {
         "type": "text",
-        "value": "What was your favorite meal that your parents made?"
+        "value": "What is or was your favorite meal that your parents made?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "When was a time you wish your parents reacted stronger about something?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "When was a time your parents overracted?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did you ever wholeheartedly disagree with your parents about something that, looking back on now, they were right about?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did your parents let you climb trees / did you want to as a kid? How high was too high?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Did you ever do something as a child that, looking back on now, makes you think 'wtf'?"
       },
       "bottom": "● • ● ○ ● • ●"
     },
