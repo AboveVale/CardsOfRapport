@@ -248,7 +248,49 @@
 	{
       "top": {
         "type": "text",
-        "value": "Would you rather be unable to die for 6,000 years, or die in 20 years? You would live the rest of your life aged as you are now."
+        "value": "The person you are closest to has been in a coma for 2 months. Scans show tremendous brain activity, and doctors believe this is the result of unending nightmares and physical pain. How long do you wait before pulling the plug if there is a 20% chance of them waking up within 2-5 years?"
+      },
+      "bottom": "● • ● ○ ● • ●"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "A mysterious person walks up to you and offers you $60,000,000 to go to prison for 20 years. Do you take it?"
+      },
+      "bottom": "Anyone who says yes is not allowed to move from their current location for 6 rounds unless they draw a card that prompts them to move."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "You somehow get swapped out with a respectable scientist, and end up on stage at a NASA convention. You have to give a speech to the world about a new theory regarding the creation of our universe. No backing out now... there's uh, snipers trained on you."
+      },
+      "bottom": "The person with the most believable theory has to theorize a backstory for how the person with the least believable theory came into existence. How did their parents meet? Did they sprout from a plant?"
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "If someone approaches you on the street and offers money in exchange for you wholeheartedly attempting a backflip, what is the least amount of money you would accept? You still get paid even if you fail."
+      },
+      "bottom": "The person who says the highest number has to try showing someone doing a backflip using just their dominant hand. You know, finger legs style. Make your finger legs do a backflip."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Oops! Your Neuralink glitched out, and now you can only see the world through one of 4 ways: Thermal, black and white, only shades of yellow, or through a random rotation of every Instagram filter (cycles with sleep). Which do you choose?"
+      },
+      "bottom": "The person who drew the card has to let someone of their choice take a picture of them using a filter chosen by a third person not of their choice."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Your goal is to end the human race. You can do this by choosing one unnecessary, voluntary action, that if anyone does it for even a split second, they die. So nothing like breathing, eating, or thinking. What do you choose?"
+      },
+      "bottom": "The person with the deadliest answer has to make one other person drink."
+    },
+	{
+      "top": {
+        "type": "text",
+        "value": "Would you rather be unable to die for 20,000 years, or die in 20 years? You would live the rest of your life aged as you are now."
       },
       "bottom": "● • ● ○ ● • ●"
     },
