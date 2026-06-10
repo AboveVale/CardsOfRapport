@@ -226,13 +226,6 @@
     },
 	{
       "top": {
-        "type": "text",
-        "value": "Run a quick Google snake game competition."
-      },
-      "bottom": "Whoever wins gets to make someone spin the punishment wheel."
-    },
-	{
-      "top": {
         "type": "image",
         "value": "!!canvas!!"
       },
