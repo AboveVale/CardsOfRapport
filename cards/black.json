@@ -317,13 +317,6 @@
     },
 	{
       "top": {
-        "type": "text",
-        "value": "Everyone wink."
-      },
-      "bottom": "Whoever has the worst wink has to drink."
-    },
-	{
-      "top": {
         "type": "image",
         "value": "!!canvas!!"
       },
