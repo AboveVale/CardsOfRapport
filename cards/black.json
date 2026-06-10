@@ -66,7 +66,7 @@
 	{
       "top": {
         "type": "text",
-        "value": "The spoiler below has a 50% chance of holding a reward, and a 50% chance of holding a punishment. It may be group or singular. You should probably hold this to a vote."
+        "value": "The spoiler below has a 50% chance of holding a reward, and a 50% chance of holding a punishment. Click to reveal, or drink."
       },
       "bottom": "Oooooh spooky spoiler!||>>gamble.default.50<<||"
     },
@@ -216,125 +216,6 @@
         "value": "Run a quick Google snake game competition."
       },
       "bottom": "Whoever wins gets to make someone spin the punishment wheel."
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
-    },
-	{
-      "top": {
-        "type": "image",
-        "value": "!!canvas!!"
-      },
-      "bottom": "Everyone look away. The player will click on this spoiler to reveal a drawing topic, and a loss condition. You have 60 seconds to guess what the player is drawing.||Your topic: >>gamble.canvas.100<<. If everyone fails to guess what you are drawing, they can draw the topic on your body in any location of your choosing.||"
     },
 	{
       "top": {
