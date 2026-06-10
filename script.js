@@ -25,11 +25,11 @@ window.playHoverSound = () => {
 const tracks = [
   "sounds/bgm1.mp3",
   "sounds/bgm2.mp3",
-  "sounds/bgm3.mp3",
+  "sounds/bgm3.wav",
   "sounds/bgm4.mp3",
-  "sounds/bgm5.mp3",
+  "sounds/bgm5.wav",
   "sounds/bgm6.mp3",
-  "sounds/bgm7.mp3",
+  "sounds/bgm7.wav",
   "sounds/bgm8.mp3"
 ];
 
